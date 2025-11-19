@@ -1,0 +1,21 @@
+# Python caches and envs
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+.env
+.env.local
+
+# Installer artifacts
+pip-wheel-metadata/
+*.egg-info/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Logs and checkpoints generated outside the committed artifacts
+*.log
+*.tmp

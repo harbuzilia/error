@@ -1,0 +1,20 @@
+# Dataset configuration for the square/circle synthetic dataset.
+# All paths are declared with forward slashes so they resolve cross-platform.
+path: data/raw
+train: train/images
+val: val/images
+# Optional metadata that downstream tooling can reference for documentation.
+meta:
+  classes:
+    - square_target
+    - circle_target
+  formats:
+    images: [jpg]
+    labels: [txt]
+  description: >-
+    Synthetic dataset with 17 training images and 8 validation images containing
+    square and circle primitives on noisy backgrounds.
+nc: 2
+names:
+  0: square_target
+  1: circle_target
