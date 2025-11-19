@@ -1,0 +1,34 @@
+# Default training recipe for the synthetic 17/8 dataset.
+dataset_config: dataset.yaml
+hyp_config: hyp/small_dataset.yaml
+
+model:
+  base: yolov8n.pt         # lightweight backbone suited for tiny datasets
+  task: detect
+
+experiment:
+  name: exp
+  project_dir: ../runs/train
+  artifacts_dir: ../artifacts
+  reports_dir: ../reports
+  best_weights: ../artifacts/best.pt
+  metrics_csv: ../reports/training-results.csv
+  summary_md: ../reports/training-report.md
+
+training:
+  epochs: 8                # run 5-10 epochs as required for verification
+  batch: 8
+  imgsz: 320
+  patience: 5
+  optimizer: AdamW
+  workers: 0
+  device: cpu
+  seed: 42
+  verbose: true
+  deterministic: true
+  augmentation_profile: lightweight
+
+callbacks:
+  save_confusion_matrix: true
+  save_pr_curve: true
+  enable_early_stopping: true
