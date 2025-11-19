@@ -1,0 +1,857 @@
+18.11.2025 21:27:43: ------------
+18.11.2025 21:27:44: App launched: 83LT :0.1.0.0ru-RU.
+18.11.2025 21:27:44: Manufacturer: LENOVO
+18.11.2025 21:27:44: Start Count: 175
+18.11.2025 21:27:44: Lenovo device detected - initializing Lenovo WMI
+18.11.2025 21:27:44: Lenovo WMI interface detected
+18.11.2025 21:27:44: C:\ProgramData\ASUS\GameVisual doesn't exist
+18.11.2025 21:27:44: Lenovo WMI interface detected
+18.11.2025 21:27:44: Lenovo WMI interface detected
+18.11.2025 21:27:44: EnergyDrv driver initialized
+18.11.2025 21:27:44: LenovoBattery initialized, current state: Conservation
+18.11.2025 21:27:44: Lenovo WMI interface detected
+18.11.2025 21:27:44: No keyboard backlight detected
+18.11.2025 21:27:44: Lenovo power mode listener started
+18.11.2025 21:27:44: LenovoSpecialKeyListener started
+18.11.2025 21:27:44: LenovoDriverKeyListener started
+18.11.2025 21:27:44: Lenovo controllers initialized
+18.11.2025 21:27:44: GodMode is supported
+18.11.2025 21:27:44: Custom mode (mode 3) already exists
+18.11.2025 21:27:44: Dummy ACPI created for Lenovo
+18.11.2025 21:27:44: Visual styles enabled
+18.11.2025 21:27:44: NVIDIA GeForce RTX 5070 Laptop GPU
+18.11.2025 21:27:44: GPU control recreated
+18.11.2025 21:27:45: CPU: 10 - AMD Ryzen 9 8945HX with Radeon Graphics         - AMD64 Family 25 Model 97 Stepping 2
+18.11.2025 21:27:45: Ryzen control initialized
+18.11.2025 21:27:45: Tray Icon: True | 49346
+18.11.2025 21:27:45: Context menu set
+18.11.2025 21:27:45: Can't connect to ASUS WMI events
+18.11.2025 21:27:45: Input dispatcher created
+18.11.2025 21:27:45: White backlight check: outBuffer=0x5, bytesReturned=4
+18.11.2025 21:27:45: White backlight supported: True
+18.11.2025 21:27:45: Lenovo white keyboard backlight support: True
+18.11.2025 21:27:45: Get white backlight state: outBuffer=0x1
+18.11.2025 21:27:45: Current keyboard backlight state from hardware: Off
+18.11.2025 21:27:45: [InitBattery] Loaded from config: lenovo_battery_state = 0 (Conservation)
+18.11.2025 21:27:45: [InitBattery] Current hardware state: Conservation
+18.11.2025 21:27:45: [InitBattery] Applying saved state Conservation to hardware...
+18.11.2025 21:27:45: Setting battery from Conservation to Conservation, commands: 0x3
+18.11.2025 21:27:45: Successfully set battery state to: Conservation
+18.11.2025 21:27:45: [InitBattery] Applied saved battery state to hardware: Conservation
+18.11.2025 21:27:45: Aura/Matrix/Battery initialized
+18.11.2025 21:27:45: Skipping XGM for Lenovo
+18.11.2025 21:27:45: Setting auto modes...
+18.11.2025 21:27:45: AutoSetting for Online
+18.11.2025 21:27:45: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 8
+18.11.2025 21:27:45: \\?\DISPLAY#BOE0D20#5&12a986f8&0&UID768#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7} DISPLAYCONFIG_OUTPUT_TECHNOLOGY_INTERNAL
+18.11.2025 21:27:45: \\?\DISPLAY#BOE0D20#5&12a986f8&0&UID768#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7} \\.\DISPLAY1\Monitor0
+18.11.2025 21:27:45: WMI Call: LENOVO_GAMEZONE_DATA.GetSmartFanMode = 2
+18.11.2025 21:27:45: Lenovo Power Mode: 2
+18.11.2025 21:27:45: Current Lenovo mode from WMI: Balance
+18.11.2025 21:27:45: Detected G-Helper mode: 0
+18.11.2025 21:27:45: NE160QDM-NZB HDR: False 10 1 False
+18.11.2025 21:27:45: Lenovo WMI interface detected
+18.11.2025 21:27:45: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportOD = 1
+18.11.2025 21:27:45: WMI Call: LENOVO_GAMEZONE_DATA.GetODStatus = 0
+18.11.2025 21:27:45: Lenovo FnLock Support: True
+18.11.2025 21:27:45: Calling DeviceIoControl for Fn Lock read: inBuffer=0x2, IOCTL=0x831020E8
+18.11.2025 21:27:45: Fn Lock state read: outBuffer=0x42C8, bytesReturned=4, Fn Lock: False
+18.11.2025 21:27:45: Fn Lock initialized from hardware: False
+18.11.2025 21:27:45: AuraMode: AuraStatic
+18.11.2025 21:27:45: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportIGPUMode = 3
+18.11.2025 21:27:45: WMI Call: LENOVO_GAMEZONE_DATA.GetIGPUModeStatus = 0
+18.11.2025 21:27:45: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportGSync = 2
+18.11.2025 21:27:45: WMI Call: LENOVO_GAMEZONE_DATA.GetGSyncStatus = 0
+18.11.2025 21:27:45: Lenovo GPU Mode: iGPU=Default, GSync=Off
+18.11.2025 21:27:45: Lenovo GPU Mode: iGPU=Default, GSync=Off
+18.11.2025 21:27:45: \\?\DISPLAY#BOE0D20#5&12a986f8&0&UID768#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7} DISPLAYCONFIG_OUTPUT_TECHNOLOGY_INTERNAL
+18.11.2025 21:27:45: \\?\DISPLAY#BOE0D20#5&12a986f8&0&UID768#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7} \\.\DISPLAY1\Monitor0
+18.11.2025 21:27:45: NE160QDM-NZB HDR: False 10 1 False
+18.11.2025 21:27:45: Lenovo WMI interface detected
+18.11.2025 21:27:45: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportOD = 1
+18.11.2025 21:27:45: WMI Call: LENOVO_GAMEZONE_DATA.GetODStatus = 0
+18.11.2025 21:27:45: Auto modes set
+18.11.2025 21:27:45: NE160QDM-NZB HDR: False 10 1 False
+18.11.2025 21:27:45: Lenovo WMI interface detected
+18.11.2025 21:27:45: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportOD = 1
+18.11.2025 21:27:45: WMI Call: LENOVO_GAMEZONE_DATA.GetODStatus = 0
+18.11.2025 21:27:45: Monitor Power On
+18.11.2025 21:27:45: Lid Open
+18.11.2025 21:27:45: Calling DeviceIoControl for Fn Lock read: inBuffer=0x2, IOCTL=0x831020E8
+18.11.2025 21:27:45: Fn Lock state read: outBuffer=0x42C8, bytesReturned=4, Fn Lock: False
+18.11.2025 21:27:45: Fn Lock initialized from hardware: False
+18.11.2025 21:27:47: Opening settings for mode: 3
+18.11.2025 21:27:47: OpenModeSettings: ASUS mode 3 -> G-Helper mode 3
+18.11.2025 21:27:47: InitMode: mode=3, isCustomMode=True, panelApplyCustom.Visible=True, panelApplyPower.Visible=False
+18.11.2025 21:27:47: InitMode: Reinitializing Lenovo power settings for mode 3
+18.11.2025 21:27:47: InitLenovoPower: Starting initialization for Lenovo power limits
+18.11.2025 21:27:47: InitLenovoPower: Mode=3, isCustomMode=True
+18.11.2025 21:27:47: InitLenovoPower: Custom mode - showing Power Limits panels
+18.11.2025 21:27:47: InitLenovoPower: Auto-apply power = False
+18.11.2025 21:27:47: InitLenovoPower: Reading power limit ranges from WMI...
+18.11.2025 21:27:47: InitLenovoPower: Custom mode - Saved values - Total=34W, Slow=34W, Fast=34W
+18.11.2025 21:27:47: InitLenovoPower: SPL (Long Term) - Min=0W, Max=200W, Saved=34W, WMI=50W, Using=34W
+18.11.2025 21:27:47: InitLenovoPower: sPPT (Short Term) - Min=0W, Max=200W, Saved=34W, WMI=60W, Using=34W
+18.11.2025 21:27:47: InitLenovoPower: fPPT (Peak) - Min=0W, Max=200W, Saved=34W, WMI=70W, Using=34W
+18.11.2025 21:27:47: InitLenovoPower: Custom mode - Power Limits initialized
+18.11.2025 21:27:47: InitLenovoPower: Initialization completed successfully
+18.11.2025 21:27:47: InitCombinedFanChart: Creating combined fan chart for Custom mode
+18.11.2025 21:27:47: InitCombinedFanChart: Combined fan chart initialized
+18.11.2025 21:27:47: InitPower: Starting power initialization
+18.11.2025 21:27:47: InitPower: Lenovo device detected, using InitLenovoPower()
+18.11.2025 21:27:47: InitLenovoPower: Starting initialization for Lenovo power limits
+18.11.2025 21:27:47: InitLenovoPower: Mode=3, isCustomMode=True
+18.11.2025 21:27:47: InitLenovoPower: Custom mode - showing Power Limits panels
+18.11.2025 21:27:47: InitLenovoPower: Auto-apply power = False
+18.11.2025 21:27:47: InitLenovoPower: Reading power limit ranges from WMI...
+18.11.2025 21:27:47: InitLenovoPower: Custom mode - Saved values - Total=34W, Slow=34W, Fast=34W
+18.11.2025 21:27:47: InitLenovoPower: SPL (Long Term) - Min=0W, Max=200W, Saved=34W, WMI=50W, Using=34W
+18.11.2025 21:27:47: InitLenovoPower: sPPT (Short Term) - Min=0W, Max=200W, Saved=34W, WMI=60W, Using=34W
+18.11.2025 21:27:47: InitLenovoPower: fPPT (Peak) - Min=0W, Max=200W, Saved=34W, WMI=70W, Using=34W
+18.11.2025 21:27:47: InitLenovoPower: Custom mode - Power Limits initialized
+18.11.2025 21:27:47: InitLenovoPower: Initialization completed successfully
+18.11.2025 21:27:47: InitUV: CPU detection - IsAMD=True, IsIntel=False, IsLenovo=True
+18.11.2025 21:27:47: InitUV: Before setting visibility - Current Visible=False, Parent Visible=False
+18.11.2025 21:27:47: InitUV: After setting visibility - IsAMD=True, New Visible=False, Parent Visible=False
+18.11.2025 21:27:47: GET GPU CLOCKS: 0, 0
+18.11.2025 21:27:47: GET CLOCK LIMIT: 0
+18.11.2025 21:27:47: ToggleNavigation: Custom mode - initializing GodMode CPU panel
+18.11.2025 21:27:47: GodMode is supported
+18.11.2025 21:27:47: InitGodModeCPU: Starting initialization. lenovoGodMode=True, IsSupported=True
+18.11.2025 21:27:47: GodMode is supported
+18.11.2025 21:27:47: InitGodModeCPU: Initializing CPU Power Limits for Custom mode
+18.11.2025 21:27:47: InitGodModeCPU: Created new panelGodModeCPU
+18.11.2025 21:27:47: InitGodModeCPU: Cleared panelGodModeCPU controls. Current count: 0
+18.11.2025 21:27:47: CreateGodModeCPUSliderPanel: Created panel for 'SPL (CPU sustained)', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:47: CreateGodModeCPUSliderPanel: Created panel for 'sPPT (CPU 2 min boost)', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:47: CreateGodModeCPUSliderPanel: Created panel for 'fPPT (CPU peak)', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:47: CreateGodModeCPUSliderPanel: Created panel for 'CPU Cross Loading', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:47: CreateGodModeCPUSliderPanel: Created panel for 'PL1 Tau', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--s', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:47: CreateGodModeCPUSliderPanel: Created panel for 'APU sPPT', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:47: CreateGodModeCPUSliderPanel: Created panel for 'CPU Temperature Limit', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--°C', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:47: InitGodModeCPU: After setting widths - panelCPULongTerm.Width=520, panelCPUShortTerm.Width=520, panelCPUPeak.Width=520, panelCPUCrossLoading.Width=520, panelCPUPL1Tau.Width=520, panelAPUsPPT.Width=520, panelCPUTemp.Width=520, cpuHeader.Width=520
+18.11.2025 21:27:47: InitGodModeCPU: labelCPULongTerm - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520, ForeColor=Color [A=255, R=240, G=240, B=240], BackColor=Color [A=255, R=28, G=28, B=28]
+18.11.2025 21:27:47: InitGodModeCPU: labelCPUShortTerm - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:47: InitGodModeCPU: labelCPUPeak - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:47: InitGodModeCPU: labelCPUCrossLoading - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:47: InitGodModeCPU: labelCPUPL1Tau - Text='--s', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:47: InitGodModeCPU: labelAPUsPPT - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:47: InitGodModeCPU: labelCPUTemp - Text='--°C', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:47: InitGodModeCPU: About to load values. trackCPULongTerm=True, labelCPULongTerm=True, panelGodModeCPU.Visible=True
+18.11.2025 21:27:47: GodMode is supported
+18.11.2025 21:27:47: LoadGodModePowerLimit: configKey=cpu_long_term, limit=True, trackBar=True, label=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_long_term - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=810}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_long_term - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=100}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_long_term - BEFORE making visible: label.Text='28 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_long_term - AFTER making visible: label.Text='28 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=False, label.Created=False
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_long_term - Screen coordinates: screenLocation={X=389,Y=869}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:47: LoadGodModePowerLimit: configKey=cpu_short_term, limit=True, trackBar=True, label=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_short_term - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=686}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_short_term - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=100}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_short_term - BEFORE making visible: label.Text='34 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_short_term - AFTER making visible: label.Text='34 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=False, label.Created=False
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_short_term - Screen coordinates: screenLocation={X=389,Y=745}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:47: LoadGodModePowerLimit: configKey=cpu_peak, limit=True, trackBar=True, label=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_peak - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=562}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_peak - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=100}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_peak - BEFORE making visible: label.Text='50 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_peak - AFTER making visible: label.Text='50 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=False, label.Created=False
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_peak - Screen coordinates: screenLocation={X=389,Y=621}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:47: LoadGodModePowerLimit: configKey=cpu_cross_loading, limit=True, trackBar=True, label=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_cross_loading - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=438}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_cross_loading - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=100}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_cross_loading - BEFORE making visible: label.Text='39 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_cross_loading - AFTER making visible: label.Text='39 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=False, label.Created=False
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_cross_loading - Screen coordinates: screenLocation={X=389,Y=497}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:47: LoadGodModePowerLimit: configKey=cpu_pl1_tau, limit=True, trackBar=True, label=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=314}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=100}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_pl1_tau - BEFORE making visible: label.Text='42 s', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_pl1_tau - AFTER making visible: label.Text='42 s', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=False, label.Created=False
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_pl1_tau - Screen coordinates: screenLocation={X=389,Y=373}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:47: LoadGodModePowerLimit: configKey=apu_sppt, limit=True, trackBar=True, label=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: apu_sppt - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=190}
+18.11.2025 21:27:47: LoadGodModePowerLimit: apu_sppt - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=100}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: apu_sppt - BEFORE making visible: label.Text='0 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:47: LoadGodModePowerLimit: apu_sppt - AFTER making visible: label.Text='0 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=False, label.Created=False
+18.11.2025 21:27:47: LoadGodModePowerLimit: apu_sppt - Screen coordinates: screenLocation={X=389,Y=249}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:47: LoadGodModePowerLimit: configKey=cpu_temp, limit=True, trackBar=True, label=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_temp - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=66}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_temp - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=100}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_temp - BEFORE making visible: label.Text='105 °C', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_temp - AFTER making visible: label.Text='105 °C', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=False, label.Created=False
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_temp - Screen coordinates: screenLocation={X=389,Y=125}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:47: InitGodModeCPU: After loading values. Checking labels...
+18.11.2025 21:27:47:   labelCPULongTerm.Text='28 W', Visible=True, Parent.Visible=True
+18.11.2025 21:27:47:   labelCPUTemp.Text='105 °C', Visible=True, Parent.Visible=True
+18.11.2025 21:27:47: InitGodModeCPU: CPU Power Limits initialized. Panel controls count: 8, Panel size: {Width=520, Height=100}, Panel visible: True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '28 W' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'SPL (CPU sustained)' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '34 W' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'sPPT (CPU 2 min boost)' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '50 W' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'fPPT (CPU peak)' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '39 W' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'CPU Cross Loading' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '42 s' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'PL1 Tau' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '0 W' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'APU sPPT' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '105 °C' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'CPU Temperature Limit' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'CPU Power Limits' Show() called, Visible=False
+18.11.2025 21:27:47: ToggleNavigation: BEFORE PerformLayout - panelPower.Visible=False, panelGodModeCPU.Visible=False
+18.11.2025 21:27:47: ToggleNavigation: AFTER PerformLayout - panelPower.Visible=False, panelGodModeCPU.Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'SPL (CPU sustained)' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '28 W' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'sPPT (CPU 2 min boost)' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '34 W' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'fPPT (CPU peak)' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '50 W' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'CPU Cross Loading' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '39 W' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'PL1 Tau' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '42 s' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'APU sPPT' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '0 W' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'CPU Temperature Limit' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '105 °C' Show() called, Visible=False
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'CPU Power Limits' Show() called, Visible=False
+18.11.2025 21:27:47: ToggleNavigation: After layout - panelPower.Size={Width=520, Height=934}, panelPower.Width=520, panelGodModeCPU.Size={Width=520, Height=934}, panelGodModeCPU.Width=520
+18.11.2025 21:27:47: ToggleNavigation: labelCPULongTerm - Text='28 W', Visible=False, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Height=32, Parent=, Parent.Width=520, Parent.Size={Width=520, Height=124}, ForeColor=Color [A=255, R=240, G=240, B=240], BackColor=Color [A=255, R=28, G=28, B=28], Bounds={X=378,Y=14,Width=124,Height=32}, IsHandleCreated=True
+18.11.2025 21:27:47: ToggleNavigation: labelCPUShortTerm - Text='34 W', Visible=False, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:47: ToggleNavigation: labelCPUPeak - Text='50 W', Visible=False, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:47: ToggleNavigation: labelCPUCrossLoading - Text='39 W', Visible=False, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:47: ToggleNavigation: labelCPUPL1Tau - Text='42 s', Visible=False, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:47: ToggleNavigation: labelAPUsPPT - Text='0 W', Visible=False, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:47: ToggleNavigation: labelCPUTemp - Text='105 °C', Visible=False, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:47: ToggleNavigation: GodMode CPU panel added to panelPower. Controls count: 1, Visible: False, Size: {Width=520, Height=934}, Width: 520, Parent: panelPower, panelPower.Visible: False, panelPower.Size: {Width=520, Height=934}, panelPower.Width: 520
+18.11.2025 21:27:47: ToggleNavigation: Custom mode - initializing GodMode CPU panel
+18.11.2025 21:27:47: GodMode is supported
+18.11.2025 21:27:47: InitGodModeCPU: Starting initialization. lenovoGodMode=True, IsSupported=True
+18.11.2025 21:27:47: GodMode is supported
+18.11.2025 21:27:47: InitGodModeCPU: Initializing CPU Power Limits for Custom mode
+18.11.2025 21:27:47: InitGodModeCPU: Using existing panelGodModeCPU. Size: {Width=520, Height=934}, MinimumSize: {Width=520, Height=0}, Visible: True
+18.11.2025 21:27:47: InitGodModeCPU: Cleared panelGodModeCPU controls. Current count: 0
+18.11.2025 21:27:47: CreateGodModeCPUSliderPanel: Created panel for 'SPL (CPU sustained)', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:47: CreateGodModeCPUSliderPanel: Created panel for 'sPPT (CPU 2 min boost)', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:47: CreateGodModeCPUSliderPanel: Created panel for 'fPPT (CPU peak)', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:47: CreateGodModeCPUSliderPanel: Created panel for 'CPU Cross Loading', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:47: CreateGodModeCPUSliderPanel: Created panel for 'PL1 Tau', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--s', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:47: CreateGodModeCPUSliderPanel: Created panel for 'APU sPPT', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:47: CreateGodModeCPUSliderPanel: Created panel for 'CPU Temperature Limit', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--°C', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:47: InitGodModeCPU: After setting widths - panelCPULongTerm.Width=520, panelCPUShortTerm.Width=520, panelCPUPeak.Width=520, panelCPUCrossLoading.Width=520, panelCPUPL1Tau.Width=520, panelAPUsPPT.Width=520, panelCPUTemp.Width=520, cpuHeader.Width=520
+18.11.2025 21:27:47: InitGodModeCPU: labelCPULongTerm - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520, ForeColor=Color [A=255, R=240, G=240, B=240], BackColor=Color [A=255, R=28, G=28, B=28]
+18.11.2025 21:27:47: InitGodModeCPU: labelCPUShortTerm - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:47: InitGodModeCPU: labelCPUPeak - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:47: InitGodModeCPU: labelCPUCrossLoading - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:47: InitGodModeCPU: labelCPUPL1Tau - Text='--s', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:47: InitGodModeCPU: labelAPUsPPT - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:47: InitGodModeCPU: labelCPUTemp - Text='--°C', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:47: InitGodModeCPU: About to load values. trackCPULongTerm=True, labelCPULongTerm=True, panelGodModeCPU.Visible=True
+18.11.2025 21:27:47: GodMode is supported
+18.11.2025 21:27:47: LoadGodModePowerLimit: configKey=cpu_long_term, limit=True, trackBar=True, label=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_long_term - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=810}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_long_term - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_long_term - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_long_term - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_long_term - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_long_term - BEFORE making visible: label.Text='28 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_long_term - AFTER making visible: label.Text='28 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_long_term - Screen coordinates: screenLocation={X=1087,Y=1592}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:47: LoadGodModePowerLimit: configKey=cpu_short_term, limit=True, trackBar=True, label=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_short_term - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=686}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_short_term - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_short_term - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_short_term - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_short_term - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_short_term - BEFORE making visible: label.Text='34 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_short_term - AFTER making visible: label.Text='34 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_short_term - Screen coordinates: screenLocation={X=1087,Y=1468}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:47: LoadGodModePowerLimit: configKey=cpu_peak, limit=True, trackBar=True, label=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_peak - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=562}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_peak - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_peak - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_peak - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_peak - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_peak - BEFORE making visible: label.Text='50 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_peak - AFTER making visible: label.Text='50 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_peak - Screen coordinates: screenLocation={X=1087,Y=1344}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:47: LoadGodModePowerLimit: configKey=cpu_cross_loading, limit=True, trackBar=True, label=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_cross_loading - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=438}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_cross_loading - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_cross_loading - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_cross_loading - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_cross_loading - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_cross_loading - BEFORE making visible: label.Text='39 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_cross_loading - AFTER making visible: label.Text='39 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_cross_loading - Screen coordinates: screenLocation={X=1087,Y=1220}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:47: LoadGodModePowerLimit: configKey=cpu_pl1_tau, limit=True, trackBar=True, label=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=314}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_pl1_tau - BEFORE making visible: label.Text='42 s', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_pl1_tau - AFTER making visible: label.Text='42 s', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_pl1_tau - Screen coordinates: screenLocation={X=1087,Y=1096}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:47: LoadGodModePowerLimit: configKey=apu_sppt, limit=True, trackBar=True, label=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: apu_sppt - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=190}
+18.11.2025 21:27:47: LoadGodModePowerLimit: apu_sppt - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: apu_sppt - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:47: LoadGodModePowerLimit: apu_sppt - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: apu_sppt - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:47: LoadGodModePowerLimit: apu_sppt - BEFORE making visible: label.Text='0 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:47: LoadGodModePowerLimit: apu_sppt - AFTER making visible: label.Text='0 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: apu_sppt - Screen coordinates: screenLocation={X=1087,Y=972}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:47: LoadGodModePowerLimit: configKey=cpu_temp, limit=True, trackBar=True, label=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_temp - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=66}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_temp - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_temp - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_temp - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_temp - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_temp - BEFORE making visible: label.Text='105 °C', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_temp - AFTER making visible: label.Text='105 °C', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:47: LoadGodModePowerLimit: cpu_temp - Screen coordinates: screenLocation={X=1087,Y=848}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:47: InitGodModeCPU: After loading values. Checking labels...
+18.11.2025 21:27:47:   labelCPULongTerm.Text='28 W', Visible=True, Parent.Visible=True
+18.11.2025 21:27:47:   labelCPUTemp.Text='105 °C', Visible=True, Parent.Visible=True
+18.11.2025 21:27:47: InitGodModeCPU: CPU Power Limits initialized. Panel controls count: 8, Panel size: {Width=520, Height=934}, Panel visible: True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '28 W' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'SPL (CPU sustained)' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '34 W' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'sPPT (CPU 2 min boost)' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '50 W' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'fPPT (CPU peak)' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '39 W' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'CPU Cross Loading' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '42 s' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'PL1 Tau' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '0 W' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'APU sPPT' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '105 °C' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'CPU Temperature Limit' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'CPU Power Limits' Show() called, Visible=True
+18.11.2025 21:27:47: ToggleNavigation: BEFORE PerformLayout - panelPower.Visible=True, panelGodModeCPU.Visible=True
+18.11.2025 21:27:47: ToggleNavigation: AFTER PerformLayout - panelPower.Visible=True, panelGodModeCPU.Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'SPL (CPU sustained)' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '28 W' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'sPPT (CPU 2 min boost)' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '34 W' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'fPPT (CPU peak)' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '50 W' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'CPU Cross Loading' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '39 W' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'PL1 Tau' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '42 s' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'APU sPPT' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '0 W' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'CPU Temperature Limit' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label '105 °C' Show() called, Visible=True
+18.11.2025 21:27:47: SetAllControlsVisible: Set label 'CPU Power Limits' Show() called, Visible=True
+18.11.2025 21:27:47: ToggleNavigation: After layout - panelPower.Size={Width=520, Height=934}, panelPower.Width=520, panelGodModeCPU.Size={Width=520, Height=934}, panelGodModeCPU.Width=520
+18.11.2025 21:27:47: ToggleNavigation: labelCPULongTerm - Text='28 W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Height=32, Parent=, Parent.Width=520, Parent.Size={Width=520, Height=124}, ForeColor=Color [A=255, R=240, G=240, B=240], BackColor=Color [A=255, R=28, G=28, B=28], Bounds={X=378,Y=14,Width=124,Height=32}, IsHandleCreated=True
+18.11.2025 21:27:47: ToggleNavigation: labelCPUShortTerm - Text='34 W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:47: ToggleNavigation: labelCPUPeak - Text='50 W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:47: ToggleNavigation: labelCPUCrossLoading - Text='39 W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:47: ToggleNavigation: labelCPUPL1Tau - Text='42 s', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:47: ToggleNavigation: labelAPUsPPT - Text='0 W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:47: ToggleNavigation: labelCPUTemp - Text='105 °C', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:47: ToggleNavigation: GodMode CPU panel added to panelPower. Controls count: 1, Visible: True, Size: {Width=520, Height=934}, Width: 520, Parent: panelPower, panelPower.Visible: True, panelPower.Size: {Width=520, Height=934}, panelPower.Width: 520
+18.11.2025 21:27:47: Fans_Shown: Window shown, initializing mode
+18.11.2025 21:27:47: InitMode: mode=3, isCustomMode=True, panelApplyCustom.Visible=True, panelApplyPower.Visible=False
+18.11.2025 21:27:47: InitMode: Reinitializing Lenovo power settings for mode 3
+18.11.2025 21:27:47: InitLenovoPower: Starting initialization for Lenovo power limits
+18.11.2025 21:27:48: InitLenovoPower: Mode=3, isCustomMode=True
+18.11.2025 21:27:48: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 8
+18.11.2025 21:27:48: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 8
+18.11.2025 21:27:48: InitLenovoPower: Custom mode - showing Power Limits panels
+18.11.2025 21:27:48: InitLenovoPower: Auto-apply power = False
+18.11.2025 21:27:48: InitLenovoPower: Reading power limit ranges from WMI...
+18.11.2025 21:27:48: InitLenovoPower: Custom mode - Saved values - Total=34W, Slow=34W, Fast=34W
+18.11.2025 21:27:48: InitLenovoPower: SPL (Long Term) - Min=0W, Max=200W, Saved=34W, WMI=50W, Using=34W
+18.11.2025 21:27:48: InitLenovoPower: sPPT (Short Term) - Min=0W, Max=200W, Saved=34W, WMI=60W, Using=34W
+18.11.2025 21:27:48: InitLenovoPower: fPPT (Peak) - Min=0W, Max=200W, Saved=34W, WMI=70W, Using=34W
+18.11.2025 21:27:48: InitLenovoPower: Custom mode - Power Limits initialized
+18.11.2025 21:27:48: InitLenovoPower: Initialization completed successfully
+18.11.2025 21:27:48: ToggleNavigation: Custom mode - initializing GodMode CPU panel
+18.11.2025 21:27:48: GodMode is supported
+18.11.2025 21:27:48: InitGodModeCPU: Starting initialization. lenovoGodMode=True, IsSupported=True
+18.11.2025 21:27:48: GodMode is supported
+18.11.2025 21:27:48: InitGodModeCPU: Initializing CPU Power Limits for Custom mode
+18.11.2025 21:27:48: InitGodModeCPU: Using existing panelGodModeCPU. Size: {Width=520, Height=934}, MinimumSize: {Width=520, Height=0}, Visible: True
+18.11.2025 21:27:48: InitGodModeCPU: Cleared panelGodModeCPU controls. Current count: 0
+18.11.2025 21:27:48: CreateGodModeCPUSliderPanel: Created panel for 'SPL (CPU sustained)', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:48: CreateGodModeCPUSliderPanel: Created panel for 'sPPT (CPU 2 min boost)', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:48: CreateGodModeCPUSliderPanel: Created panel for 'fPPT (CPU peak)', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:48: CreateGodModeCPUSliderPanel: Created panel for 'CPU Cross Loading', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:48: CreateGodModeCPUSliderPanel: Created panel for 'PL1 Tau', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--s', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:48: CreateGodModeCPUSliderPanel: Created panel for 'APU sPPT', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:48: CreateGodModeCPUSliderPanel: Created panel for 'CPU Temperature Limit', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--°C', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:48: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+18.11.2025 21:27:48: InitGodModeCPU: After setting widths - panelCPULongTerm.Width=520, panelCPUShortTerm.Width=520, panelCPUPeak.Width=520, panelCPUCrossLoading.Width=520, panelCPUPL1Tau.Width=520, panelAPUsPPT.Width=520, panelCPUTemp.Width=520, cpuHeader.Width=520
+18.11.2025 21:27:48: Set Lenovo Power Mode to: GodMode
+18.11.2025 21:27:48: Set Lenovo power mode: GodMode (from G-Helper mode 3)
+18.11.2025 21:27:48: InitGodModeCPU: labelCPULongTerm - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520, ForeColor=Color [A=255, R=240, G=240, B=240], BackColor=Color [A=255, R=28, G=28, B=28]
+18.11.2025 21:27:48: InitGodModeCPU: labelCPUShortTerm - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:48: InitGodModeCPU: labelCPUPeak - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:48: InitGodModeCPU: labelCPUCrossLoading - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:48: InitGodModeCPU: labelCPUPL1Tau - Text='--s', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:48: InitGodModeCPU: labelAPUsPPT - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:48: InitGodModeCPU: labelCPUTemp - Text='--°C', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:48: InitGodModeCPU: About to load values. trackCPULongTerm=True, labelCPULongTerm=True, panelGodModeCPU.Visible=True
+18.11.2025 21:27:48: GodMode is supported
+18.11.2025 21:27:48: GodMode auto-apply is disabled
+18.11.2025 21:27:48: GodMode is supported
+18.11.2025 21:27:48: LoadGodModePowerLimit: configKey=cpu_long_term, limit=True, trackBar=True, label=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_long_term - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=810}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_long_term - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_long_term - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_long_term - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_long_term - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_long_term - BEFORE making visible: label.Text='28 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_long_term - AFTER making visible: label.Text='28 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_long_term - Screen coordinates: screenLocation={X=1087,Y=1592}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:48: LoadGodModePowerLimit: configKey=cpu_short_term, limit=True, trackBar=True, label=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_short_term - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=686}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_short_term - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_short_term - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_short_term - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_short_term - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_short_term - BEFORE making visible: label.Text='34 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_short_term - AFTER making visible: label.Text='34 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_short_term - Screen coordinates: screenLocation={X=1087,Y=1468}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:48: LoadGodModePowerLimit: configKey=cpu_peak, limit=True, trackBar=True, label=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_peak - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=562}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_peak - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_peak - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_peak - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_peak - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_peak - BEFORE making visible: label.Text='50 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_peak - AFTER making visible: label.Text='50 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_peak - Screen coordinates: screenLocation={X=1087,Y=1344}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:48: LoadGodModePowerLimit: configKey=cpu_cross_loading, limit=True, trackBar=True, label=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_cross_loading - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=438}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_cross_loading - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_cross_loading - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_cross_loading - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_cross_loading - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_cross_loading - BEFORE making visible: label.Text='39 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_cross_loading - AFTER making visible: label.Text='39 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_cross_loading - Screen coordinates: screenLocation={X=1087,Y=1220}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:48: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+18.11.2025 21:27:48: Set Lenovo Power Mode to: GodMode
+18.11.2025 21:27:48: Set Lenovo power mode: GodMode (from G-Helper mode 3)
+18.11.2025 21:27:48: LoadGodModePowerLimit: configKey=cpu_pl1_tau, limit=True, trackBar=True, label=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=314}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_pl1_tau - BEFORE making visible: label.Text='42 s', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_pl1_tau - AFTER making visible: label.Text='42 s', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_pl1_tau - Screen coordinates: screenLocation={X=1087,Y=1096}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:48: GodMode is supported
+18.11.2025 21:27:48: GodMode auto-apply is disabled
+18.11.2025 21:27:48: LoadGodModePowerLimit: configKey=apu_sppt, limit=True, trackBar=True, label=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: apu_sppt - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=190}
+18.11.2025 21:27:48: LoadGodModePowerLimit: apu_sppt - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: apu_sppt - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:48: LoadGodModePowerLimit: apu_sppt - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: apu_sppt - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:48: LoadGodModePowerLimit: apu_sppt - BEFORE making visible: label.Text='0 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:48: LoadGodModePowerLimit: apu_sppt - AFTER making visible: label.Text='0 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: apu_sppt - Screen coordinates: screenLocation={X=1087,Y=972}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:48: LoadGodModePowerLimit: configKey=cpu_temp, limit=True, trackBar=True, label=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_temp - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=66}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_temp - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_temp - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_temp - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_temp - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_temp - BEFORE making visible: label.Text='105 °C', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_temp - AFTER making visible: label.Text='105 °C', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_temp - Screen coordinates: screenLocation={X=1087,Y=848}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:48: InitGodModeCPU: After loading values. Checking labels...
+18.11.2025 21:27:48:   labelCPULongTerm.Text='28 W', Visible=True, Parent.Visible=True
+18.11.2025 21:27:48:   labelCPUTemp.Text='105 °C', Visible=True, Parent.Visible=True
+18.11.2025 21:27:48: InitGodModeCPU: CPU Power Limits initialized. Panel controls count: 8, Panel size: {Width=520, Height=934}, Panel visible: True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '28 W' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'SPL (CPU sustained)' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '34 W' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'sPPT (CPU 2 min boost)' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '50 W' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'fPPT (CPU peak)' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '39 W' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'CPU Cross Loading' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '42 s' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'PL1 Tau' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '0 W' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'APU sPPT' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '105 °C' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'CPU Temperature Limit' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'CPU Power Limits' Show() called, Visible=True
+18.11.2025 21:27:48: ToggleNavigation: BEFORE PerformLayout - panelPower.Visible=True, panelGodModeCPU.Visible=True
+18.11.2025 21:27:48: ToggleNavigation: AFTER PerformLayout - panelPower.Visible=True, panelGodModeCPU.Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'SPL (CPU sustained)' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '28 W' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'sPPT (CPU 2 min boost)' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '34 W' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'fPPT (CPU peak)' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '50 W' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'CPU Cross Loading' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '39 W' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'PL1 Tau' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '42 s' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'APU sPPT' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '0 W' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'CPU Temperature Limit' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '105 °C' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'CPU Power Limits' Show() called, Visible=True
+18.11.2025 21:27:48: ToggleNavigation: After layout - panelPower.Size={Width=520, Height=934}, panelPower.Width=520, panelGodModeCPU.Size={Width=520, Height=934}, panelGodModeCPU.Width=520
+18.11.2025 21:27:48: ToggleNavigation: labelCPULongTerm - Text='28 W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Height=32, Parent=, Parent.Width=520, Parent.Size={Width=520, Height=124}, ForeColor=Color [A=255, R=240, G=240, B=240], BackColor=Color [A=255, R=28, G=28, B=28], Bounds={X=378,Y=14,Width=124,Height=32}, IsHandleCreated=True
+18.11.2025 21:27:48: ToggleNavigation: labelCPUShortTerm - Text='34 W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:48: ToggleNavigation: labelCPUPeak - Text='50 W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:48: ToggleNavigation: labelCPUCrossLoading - Text='39 W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:48: ToggleNavigation: labelCPUPL1Tau - Text='42 s', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:48: ToggleNavigation: labelAPUsPPT - Text='0 W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:48: ToggleNavigation: labelCPUTemp - Text='105 °C', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:48: ToggleNavigation: GodMode CPU panel added to panelPower. Controls count: 1, Visible: True, Size: {Width=520, Height=934}, Width: 520, Parent: panelPower, panelPower.Visible: True, panelPower.Size: {Width=520, Height=934}, panelPower.Width: 520
+18.11.2025 21:27:48: ToggleNavigation: Custom mode - initializing GodMode CPU panel
+18.11.2025 21:27:48: GodMode is supported
+18.11.2025 21:27:48: InitGodModeCPU: Starting initialization. lenovoGodMode=True, IsSupported=True
+18.11.2025 21:27:48: GodMode is supported
+18.11.2025 21:27:48: InitGodModeCPU: Initializing CPU Power Limits for Custom mode
+18.11.2025 21:27:48: InitGodModeCPU: Using existing panelGodModeCPU. Size: {Width=520, Height=934}, MinimumSize: {Width=520, Height=0}, Visible: True
+18.11.2025 21:27:48: InitGodModeCPU: Cleared panelGodModeCPU controls. Current count: 0
+18.11.2025 21:27:48: CreateGodModeCPUSliderPanel: Created panel for 'SPL (CPU sustained)', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:48: CreateGodModeCPUSliderPanel: Created panel for 'sPPT (CPU 2 min boost)', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:48: CreateGodModeCPUSliderPanel: Created panel for 'fPPT (CPU peak)', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:48: CreateGodModeCPUSliderPanel: Created panel for 'CPU Cross Loading', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:48: CreateGodModeCPUSliderPanel: Created panel for 'PL1 Tau', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--s', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:48: CreateGodModeCPUSliderPanel: Created panel for 'APU sPPT', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:48: CreateGodModeCPUSliderPanel: Created panel for 'CPU Temperature Limit', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--°C', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:48: InitGodModeCPU: After setting widths - panelCPULongTerm.Width=520, panelCPUShortTerm.Width=520, panelCPUPeak.Width=520, panelCPUCrossLoading.Width=520, panelCPUPL1Tau.Width=520, panelAPUsPPT.Width=520, panelCPUTemp.Width=520, cpuHeader.Width=520
+18.11.2025 21:27:48: InitGodModeCPU: labelCPULongTerm - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520, ForeColor=Color [A=255, R=240, G=240, B=240], BackColor=Color [A=255, R=28, G=28, B=28]
+18.11.2025 21:27:48: InitGodModeCPU: labelCPUShortTerm - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:48: InitGodModeCPU: labelCPUPeak - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:48: InitGodModeCPU: labelCPUCrossLoading - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:48: InitGodModeCPU: labelCPUPL1Tau - Text='--s', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:48: InitGodModeCPU: labelAPUsPPT - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:48: InitGodModeCPU: labelCPUTemp - Text='--°C', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:48: InitGodModeCPU: About to load values. trackCPULongTerm=True, labelCPULongTerm=True, panelGodModeCPU.Visible=True
+18.11.2025 21:27:48: GodMode is supported
+18.11.2025 21:27:48: LoadGodModePowerLimit: configKey=cpu_long_term, limit=True, trackBar=True, label=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_long_term - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=810}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_long_term - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_long_term - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_long_term - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_long_term - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_long_term - BEFORE making visible: label.Text='28 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_long_term - AFTER making visible: label.Text='28 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_long_term - Screen coordinates: screenLocation={X=1087,Y=1592}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:48: LoadGodModePowerLimit: configKey=cpu_short_term, limit=True, trackBar=True, label=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_short_term - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=686}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_short_term - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_short_term - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_short_term - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_short_term - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_short_term - BEFORE making visible: label.Text='34 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_short_term - AFTER making visible: label.Text='34 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_short_term - Screen coordinates: screenLocation={X=1087,Y=1468}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:48: LoadGodModePowerLimit: configKey=cpu_peak, limit=True, trackBar=True, label=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_peak - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=562}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_peak - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_peak - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_peak - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_peak - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_peak - BEFORE making visible: label.Text='50 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_peak - AFTER making visible: label.Text='50 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_peak - Screen coordinates: screenLocation={X=1087,Y=1344}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:48: LoadGodModePowerLimit: configKey=cpu_cross_loading, limit=True, trackBar=True, label=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_cross_loading - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=438}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_cross_loading - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_cross_loading - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_cross_loading - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_cross_loading - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_cross_loading - BEFORE making visible: label.Text='39 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_cross_loading - AFTER making visible: label.Text='39 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_cross_loading - Screen coordinates: screenLocation={X=1087,Y=1220}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:48: LoadGodModePowerLimit: configKey=cpu_pl1_tau, limit=True, trackBar=True, label=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=314}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_pl1_tau - BEFORE making visible: label.Text='42 s', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_pl1_tau - AFTER making visible: label.Text='42 s', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_pl1_tau - Screen coordinates: screenLocation={X=1087,Y=1096}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:48: LoadGodModePowerLimit: configKey=apu_sppt, limit=True, trackBar=True, label=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: apu_sppt - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=190}
+18.11.2025 21:27:48: LoadGodModePowerLimit: apu_sppt - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: apu_sppt - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:48: LoadGodModePowerLimit: apu_sppt - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: apu_sppt - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:48: LoadGodModePowerLimit: apu_sppt - BEFORE making visible: label.Text='0 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:48: LoadGodModePowerLimit: apu_sppt - AFTER making visible: label.Text='0 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: apu_sppt - Screen coordinates: screenLocation={X=1087,Y=972}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:48: LoadGodModePowerLimit: configKey=cpu_temp, limit=True, trackBar=True, label=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_temp - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=66}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_temp - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_temp - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_temp - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_temp - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_temp - BEFORE making visible: label.Text='105 °C', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_temp - AFTER making visible: label.Text='105 °C', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:48: LoadGodModePowerLimit: cpu_temp - Screen coordinates: screenLocation={X=1087,Y=848}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:48: InitGodModeCPU: After loading values. Checking labels...
+18.11.2025 21:27:48:   labelCPULongTerm.Text='28 W', Visible=True, Parent.Visible=True
+18.11.2025 21:27:48:   labelCPUTemp.Text='105 °C', Visible=True, Parent.Visible=True
+18.11.2025 21:27:48: InitGodModeCPU: CPU Power Limits initialized. Panel controls count: 8, Panel size: {Width=520, Height=934}, Panel visible: True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '28 W' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'SPL (CPU sustained)' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '34 W' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'sPPT (CPU 2 min boost)' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '50 W' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'fPPT (CPU peak)' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '39 W' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'CPU Cross Loading' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '42 s' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'PL1 Tau' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '0 W' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'APU sPPT' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '105 °C' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'CPU Temperature Limit' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'CPU Power Limits' Show() called, Visible=True
+18.11.2025 21:27:48: ToggleNavigation: BEFORE PerformLayout - panelPower.Visible=True, panelGodModeCPU.Visible=True
+18.11.2025 21:27:48: ToggleNavigation: AFTER PerformLayout - panelPower.Visible=True, panelGodModeCPU.Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'SPL (CPU sustained)' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '28 W' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'sPPT (CPU 2 min boost)' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '34 W' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'fPPT (CPU peak)' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '50 W' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'CPU Cross Loading' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '39 W' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'PL1 Tau' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '42 s' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'APU sPPT' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '0 W' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'CPU Temperature Limit' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label '105 °C' Show() called, Visible=True
+18.11.2025 21:27:48: SetAllControlsVisible: Set label 'CPU Power Limits' Show() called, Visible=True
+18.11.2025 21:27:48: ToggleNavigation: After layout - panelPower.Size={Width=520, Height=934}, panelPower.Width=520, panelGodModeCPU.Size={Width=520, Height=934}, panelGodModeCPU.Width=520
+18.11.2025 21:27:48: ToggleNavigation: labelCPULongTerm - Text='28 W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Height=32, Parent=, Parent.Width=520, Parent.Size={Width=520, Height=124}, ForeColor=Color [A=255, R=240, G=240, B=240], BackColor=Color [A=255, R=28, G=28, B=28], Bounds={X=378,Y=14,Width=124,Height=32}, IsHandleCreated=True
+18.11.2025 21:27:48: ToggleNavigation: labelCPUShortTerm - Text='34 W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:48: ToggleNavigation: labelCPUPeak - Text='50 W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:48: ToggleNavigation: labelCPUCrossLoading - Text='39 W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:48: ToggleNavigation: labelCPUPL1Tau - Text='42 s', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:48: ToggleNavigation: labelAPUsPPT - Text='0 W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:48: ToggleNavigation: labelCPUTemp - Text='105 °C', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:48: ToggleNavigation: GodMode CPU panel added to panelPower. Controls count: 1, Visible: True, Size: {Width=520, Height=934}, Width: 520, Parent: panelPower, panelPower.Visible: True, panelPower.Size: {Width=520, Height=934}, panelPower.Width: 520
+18.11.2025 21:27:50: Get white backlight state: outBuffer=0x1
+18.11.2025 21:27:50: Get white backlight state: outBuffer=0x1
+18.11.2025 21:27:50: Get white backlight state: outBuffer=0x1
+18.11.2025 21:27:51: GodMode is supported
+18.11.2025 21:27:51: InitGodModeGPU: Initializing GPU Power Limits for Custom mode
+18.11.2025 21:27:51: GodMode is supported
+18.11.2025 21:27:51: LoadGodModePowerLimit: configKey=gpu_power_boost, limit=True, trackBar=True, label=True
+18.11.2025 21:27:51: LoadGodModePowerLimit: gpu_power_boost - Parent level 0: Panel '', Visible=True, Size={Width=170, Height=60}, Width=170, Location={X=15,Y=196}
+18.11.2025 21:27:51: LoadGodModePowerLimit: gpu_power_boost - Parent level 1: Panel '', Visible=True, Size={Width=200, Height=100}, Width=200, Location={X=0,Y=0}
+18.11.2025 21:27:51: LoadGodModePowerLimit: gpu_power_boost - BEFORE making visible: label.Text='15 W', label.Visible=True, label.Location={X=90,Y=8}, label.Size={Width=49, Height=28}, label.Width=49, label.Height=28, label.Anchor=Top, Right, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [Control], label.Parent=, label.Parent.Width=170, label.Bounds={X=90,Y=8,Width=49,Height=28}, label.ClientRectangle={X=0,Y=0,Width=49,Height=28}, label.DisplayRectangle={X=0,Y=0,Width=49,Height=28}
+18.11.2025 21:27:51: LoadGodModePowerLimit: gpu_power_boost - AFTER making visible: label.Text='15 W', label.Visible=True, label.Location={X=90,Y=8}, label.Size={Width=49, Height=28}, label.Width=49, label.Height=28, label.Anchor=Top, Right, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [Control], label.Parent=, label.Parent.Width=170, label.Bounds={X=90,Y=8,Width=49,Height=28}, label.ClientRectangle={X=0,Y=0,Width=49,Height=28}, label.DisplayRectangle={X=0,Y=0,Width=49,Height=28}, label.IsHandleCreated=False, label.Created=False
+18.11.2025 21:27:51: LoadGodModePowerLimit: gpu_power_boost - Screen coordinates: screenLocation={X=116,Y=249}, parent.ClientSize={Width=170, Height=60}, parent.ClientRectangle={X=0,Y=0,Width=170,Height=60}
+18.11.2025 21:27:51: LoadGodModePowerLimit: configKey=gpu_ctgp, limit=True, trackBar=True, label=True
+18.11.2025 21:27:51: LoadGodModePowerLimit: gpu_ctgp - Parent level 0: Panel '', Visible=True, Size={Width=170, Height=60}, Width=170, Location={X=15,Y=136}
+18.11.2025 21:27:51: LoadGodModePowerLimit: gpu_ctgp - Parent level 1: Panel '', Visible=True, Size={Width=200, Height=100}, Width=200, Location={X=0,Y=0}
+18.11.2025 21:27:51: LoadGodModePowerLimit: gpu_ctgp - BEFORE making visible: label.Text='80 W', label.Visible=True, label.Location={X=90,Y=8}, label.Size={Width=49, Height=28}, label.Width=49, label.Height=28, label.Anchor=Top, Right, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [Control], label.Parent=, label.Parent.Width=170, label.Bounds={X=90,Y=8,Width=49,Height=28}, label.ClientRectangle={X=0,Y=0,Width=49,Height=28}, label.DisplayRectangle={X=0,Y=0,Width=49,Height=28}
+18.11.2025 21:27:51: LoadGodModePowerLimit: gpu_ctgp - AFTER making visible: label.Text='80 W', label.Visible=True, label.Location={X=90,Y=8}, label.Size={Width=49, Height=28}, label.Width=49, label.Height=28, label.Anchor=Top, Right, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [Control], label.Parent=, label.Parent.Width=170, label.Bounds={X=90,Y=8,Width=49,Height=28}, label.ClientRectangle={X=0,Y=0,Width=49,Height=28}, label.DisplayRectangle={X=0,Y=0,Width=49,Height=28}, label.IsHandleCreated=False, label.Created=False
+18.11.2025 21:27:51: LoadGodModePowerLimit: gpu_ctgp - Screen coordinates: screenLocation={X=116,Y=189}, parent.ClientSize={Width=170, Height=60}, parent.ClientRectangle={X=0,Y=0,Width=170,Height=60}
+18.11.2025 21:27:51: LoadGodModePowerLimit: configKey=gpu_temp, limit=True, trackBar=True, label=True
+18.11.2025 21:27:51: LoadGodModePowerLimit: gpu_temp - Parent level 0: Panel '', Visible=True, Size={Width=170, Height=60}, Width=170, Location={X=15,Y=76}
+18.11.2025 21:27:51: LoadGodModePowerLimit: gpu_temp - Parent level 1: Panel '', Visible=True, Size={Width=200, Height=100}, Width=200, Location={X=0,Y=0}
+18.11.2025 21:27:51: LoadGodModePowerLimit: gpu_temp - BEFORE making visible: label.Text='87 °C', label.Visible=True, label.Location={X=90,Y=8}, label.Size={Width=49, Height=28}, label.Width=49, label.Height=28, label.Anchor=Top, Right, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [Control], label.Parent=, label.Parent.Width=170, label.Bounds={X=90,Y=8,Width=49,Height=28}, label.ClientRectangle={X=0,Y=0,Width=49,Height=28}, label.DisplayRectangle={X=0,Y=0,Width=49,Height=28}
+18.11.2025 21:27:51: LoadGodModePowerLimit: gpu_temp - AFTER making visible: label.Text='87 °C', label.Visible=True, label.Location={X=90,Y=8}, label.Size={Width=49, Height=28}, label.Width=49, label.Height=28, label.Anchor=Top, Right, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [Control], label.Parent=, label.Parent.Width=170, label.Bounds={X=90,Y=8,Width=49,Height=28}, label.ClientRectangle={X=0,Y=0,Width=49,Height=28}, label.DisplayRectangle={X=0,Y=0,Width=49,Height=28}, label.IsHandleCreated=False, label.Created=False
+18.11.2025 21:27:51: LoadGodModePowerLimit: gpu_temp - Screen coordinates: screenLocation={X=116,Y=129}, parent.ClientSize={Width=170, Height=60}, parent.ClientRectangle={X=0,Y=0,Width=170,Height=60}
+18.11.2025 21:27:51: InitGodModeGPU: GPU Power Limits initialized
+18.11.2025 21:27:52: GodMode is supported
+18.11.2025 21:27:52: InitGodModeGPU: Initializing GPU Power Limits for Custom mode
+18.11.2025 21:27:52: GodMode is supported
+18.11.2025 21:27:52: LoadGodModePowerLimit: configKey=gpu_power_boost, limit=True, trackBar=True, label=True
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_power_boost - Parent level 0: Panel '', Visible=True, Size={Width=360, Height=60}, Width=360, Location={X=15,Y=196}
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_power_boost - Parent level 1: Panel '', Visible=True, Size={Width=390, Height=266}, Width=390, Location={X=0,Y=0}
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_power_boost - Parent level 2: Panel 'panelGPU', Visible=True, Size={Width=390, Height=651}, Width=390, Location={X=8,Y=50}
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_power_boost - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_power_boost - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_power_boost - BEFORE making visible: label.Text='15 W', label.Visible=True, label.Location={X=280,Y=8}, label.Size={Width=49, Height=28}, label.Width=49, label.Height=28, label.Anchor=Top, Right, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=360, label.Bounds={X=280,Y=8,Width=49,Height=28}, label.ClientRectangle={X=0,Y=0,Width=49,Height=28}, label.DisplayRectangle={X=0,Y=0,Width=49,Height=28}
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_power_boost - AFTER making visible: label.Text='15 W', label.Visible=True, label.Location={X=280,Y=8}, label.Size={Width=49, Height=28}, label.Width=49, label.Height=28, label.Anchor=Top, Right, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=360, label.Bounds={X=280,Y=8,Width=49,Height=28}, label.ClientRectangle={X=0,Y=0,Width=49,Height=28}, label.DisplayRectangle={X=0,Y=0,Width=49,Height=28}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_power_boost - Screen coordinates: screenLocation={X=1004,Y=972}, parent.ClientSize={Width=360, Height=60}, parent.ClientRectangle={X=0,Y=0,Width=360,Height=60}
+18.11.2025 21:27:52: LoadGodModePowerLimit: configKey=gpu_ctgp, limit=True, trackBar=True, label=True
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_ctgp - Parent level 0: Panel '', Visible=True, Size={Width=360, Height=60}, Width=360, Location={X=15,Y=136}
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_ctgp - Parent level 1: Panel '', Visible=True, Size={Width=390, Height=266}, Width=390, Location={X=0,Y=0}
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_ctgp - Parent level 2: Panel 'panelGPU', Visible=True, Size={Width=390, Height=651}, Width=390, Location={X=8,Y=50}
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_ctgp - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_ctgp - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_ctgp - BEFORE making visible: label.Text='80 W', label.Visible=True, label.Location={X=280,Y=8}, label.Size={Width=49, Height=28}, label.Width=49, label.Height=28, label.Anchor=Top, Right, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=360, label.Bounds={X=280,Y=8,Width=49,Height=28}, label.ClientRectangle={X=0,Y=0,Width=49,Height=28}, label.DisplayRectangle={X=0,Y=0,Width=49,Height=28}
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_ctgp - AFTER making visible: label.Text='80 W', label.Visible=True, label.Location={X=280,Y=8}, label.Size={Width=49, Height=28}, label.Width=49, label.Height=28, label.Anchor=Top, Right, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=360, label.Bounds={X=280,Y=8,Width=49,Height=28}, label.ClientRectangle={X=0,Y=0,Width=49,Height=28}, label.DisplayRectangle={X=0,Y=0,Width=49,Height=28}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_ctgp - Screen coordinates: screenLocation={X=1004,Y=912}, parent.ClientSize={Width=360, Height=60}, parent.ClientRectangle={X=0,Y=0,Width=360,Height=60}
+18.11.2025 21:27:52: LoadGodModePowerLimit: configKey=gpu_temp, limit=True, trackBar=True, label=True
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_temp - Parent level 0: Panel '', Visible=True, Size={Width=360, Height=60}, Width=360, Location={X=15,Y=76}
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_temp - Parent level 1: Panel '', Visible=True, Size={Width=390, Height=266}, Width=390, Location={X=0,Y=0}
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_temp - Parent level 2: Panel 'panelGPU', Visible=True, Size={Width=390, Height=651}, Width=390, Location={X=8,Y=50}
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_temp - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_temp - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_temp - BEFORE making visible: label.Text='87 °C', label.Visible=True, label.Location={X=280,Y=8}, label.Size={Width=49, Height=28}, label.Width=49, label.Height=28, label.Anchor=Top, Right, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=360, label.Bounds={X=280,Y=8,Width=49,Height=28}, label.ClientRectangle={X=0,Y=0,Width=49,Height=28}, label.DisplayRectangle={X=0,Y=0,Width=49,Height=28}
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_temp - AFTER making visible: label.Text='87 °C', label.Visible=True, label.Location={X=280,Y=8}, label.Size={Width=49, Height=28}, label.Width=49, label.Height=28, label.Anchor=Top, Right, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=360, label.Bounds={X=280,Y=8,Width=49,Height=28}, label.ClientRectangle={X=0,Y=0,Width=49,Height=28}, label.DisplayRectangle={X=0,Y=0,Width=49,Height=28}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:52: LoadGodModePowerLimit: gpu_temp - Screen coordinates: screenLocation={X=1004,Y=852}, parent.ClientSize={Width=360, Height=60}, parent.ClientRectangle={X=0,Y=0,Width=360,Height=60}
+18.11.2025 21:27:52: InitGodModeGPU: GPU Power Limits initialized
+18.11.2025 21:27:52: Get white backlight state: outBuffer=0x1
+18.11.2025 21:27:52: ToggleNavigation: Custom mode - initializing GodMode CPU panel
+18.11.2025 21:27:52: GodMode is supported
+18.11.2025 21:27:52: InitGodModeCPU: Starting initialization. lenovoGodMode=True, IsSupported=True
+18.11.2025 21:27:52: GodMode is supported
+18.11.2025 21:27:52: InitGodModeCPU: Initializing CPU Power Limits for Custom mode
+18.11.2025 21:27:52: InitGodModeCPU: Using existing panelGodModeCPU. Size: {Width=520, Height=934}, MinimumSize: {Width=520, Height=0}, Visible: True
+18.11.2025 21:27:52: InitGodModeCPU: Cleared panelGodModeCPU controls. Current count: 0
+18.11.2025 21:27:52: CreateGodModeCPUSliderPanel: Created panel for 'SPL (CPU sustained)', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:52: CreateGodModeCPUSliderPanel: Created panel for 'sPPT (CPU 2 min boost)', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:52: CreateGodModeCPUSliderPanel: Created panel for 'fPPT (CPU peak)', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:52: CreateGodModeCPUSliderPanel: Created panel for 'CPU Cross Loading', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:52: CreateGodModeCPUSliderPanel: Created panel for 'PL1 Tau', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--s', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:52: CreateGodModeCPUSliderPanel: Created panel for 'APU sPPT', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--W', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:52: CreateGodModeCPUSliderPanel: Created panel for 'CPU Temperature Limit', panel.Size={Width=520, Height=124}, panel.Width=520, panel.Height=124, panel.MinimumSize={Width=520, Height=124}, valueLabel.Text='--°C', valueLabel.Visible=True, valueLabel.Location={X=378,Y=14}, valueLabel.Size={Width=124, Height=32}, valueLabel.Anchor=Top, Left, valueLabel.ForeColor=Color [A=255, R=240, G=240, B=240], valueLabel.BackColor=Color [A=255, R=28, G=28, B=28], valueLabel.Parent=, Controls.Count=3
+18.11.2025 21:27:52: InitGodModeCPU: After setting widths - panelCPULongTerm.Width=520, panelCPUShortTerm.Width=520, panelCPUPeak.Width=520, panelCPUCrossLoading.Width=520, panelCPUPL1Tau.Width=520, panelAPUsPPT.Width=520, panelCPUTemp.Width=520, cpuHeader.Width=520
+18.11.2025 21:27:52: InitGodModeCPU: labelCPULongTerm - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520, ForeColor=Color [A=255, R=240, G=240, B=240], BackColor=Color [A=255, R=28, G=28, B=28]
+18.11.2025 21:27:52: InitGodModeCPU: labelCPUShortTerm - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:52: InitGodModeCPU: labelCPUPeak - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:52: InitGodModeCPU: labelCPUCrossLoading - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:52: InitGodModeCPU: labelCPUPL1Tau - Text='--s', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:52: InitGodModeCPU: labelAPUsPPT - Text='--W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:52: InitGodModeCPU: labelCPUTemp - Text='--°C', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Parent=, Parent.Width=520
+18.11.2025 21:27:52: InitGodModeCPU: About to load values. trackCPULongTerm=True, labelCPULongTerm=True, panelGodModeCPU.Visible=True
+18.11.2025 21:27:52: GodMode is supported
+18.11.2025 21:27:52: LoadGodModePowerLimit: configKey=cpu_long_term, limit=True, trackBar=True, label=True
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_long_term - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=810}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_long_term - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_long_term - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_long_term - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_long_term - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_long_term - BEFORE making visible: label.Text='28 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_long_term - AFTER making visible: label.Text='28 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_long_term - Screen coordinates: screenLocation={X=1087,Y=1592}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:52: LoadGodModePowerLimit: configKey=cpu_short_term, limit=True, trackBar=True, label=True
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_short_term - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=686}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_short_term - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_short_term - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_short_term - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_short_term - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_short_term - BEFORE making visible: label.Text='34 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_short_term - AFTER making visible: label.Text='34 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_short_term - Screen coordinates: screenLocation={X=1087,Y=1468}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:52: LoadGodModePowerLimit: configKey=cpu_peak, limit=True, trackBar=True, label=True
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_peak - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=562}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_peak - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_peak - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_peak - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_peak - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_peak - BEFORE making visible: label.Text='50 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_peak - AFTER making visible: label.Text='50 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_peak - Screen coordinates: screenLocation={X=1087,Y=1344}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:52: LoadGodModePowerLimit: configKey=cpu_cross_loading, limit=True, trackBar=True, label=True
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_cross_loading - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=438}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_cross_loading - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_cross_loading - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_cross_loading - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_cross_loading - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_cross_loading - BEFORE making visible: label.Text='39 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_cross_loading - AFTER making visible: label.Text='39 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_cross_loading - Screen coordinates: screenLocation={X=1087,Y=1220}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:52: LoadGodModePowerLimit: configKey=cpu_pl1_tau, limit=True, trackBar=True, label=True
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=314}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_pl1_tau - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_pl1_tau - BEFORE making visible: label.Text='42 s', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_pl1_tau - AFTER making visible: label.Text='42 s', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_pl1_tau - Screen coordinates: screenLocation={X=1087,Y=1096}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:52: LoadGodModePowerLimit: configKey=apu_sppt, limit=True, trackBar=True, label=True
+18.11.2025 21:27:52: LoadGodModePowerLimit: apu_sppt - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=190}
+18.11.2025 21:27:52: LoadGodModePowerLimit: apu_sppt - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:52: LoadGodModePowerLimit: apu_sppt - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:52: LoadGodModePowerLimit: apu_sppt - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:52: LoadGodModePowerLimit: apu_sppt - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:52: LoadGodModePowerLimit: apu_sppt - BEFORE making visible: label.Text='0 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:52: LoadGodModePowerLimit: apu_sppt - AFTER making visible: label.Text='0 W', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:52: LoadGodModePowerLimit: apu_sppt - Screen coordinates: screenLocation={X=1087,Y=972}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:52: LoadGodModePowerLimit: configKey=cpu_temp, limit=True, trackBar=True, label=True
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_temp - Parent level 0: Panel '', Visible=True, Size={Width=520, Height=124}, Width=520, Location={X=0,Y=66}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_temp - Parent level 1: Panel '', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=0,Y=0}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_temp - Parent level 2: Panel 'panelPower', Visible=True, Size={Width=520, Height=934}, Width=520, Location={X=8,Y=50}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_temp - Parent level 3: Panel 'panelSliders', Visible=True, Size={Width=398, Height=801}, Width=398, Location={X=0,Y=0}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_temp - Parent level 4: Fans 'Fans', Visible=True, Size={Width=1234, Height=857}, Width=1234, Location={X=690,Y=673}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_temp - BEFORE making visible: label.Text='105 °C', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_temp - AFTER making visible: label.Text='105 °C', label.Visible=True, label.Location={X=378,Y=14}, label.Size={Width=124, Height=32}, label.Width=124, label.Height=32, label.Anchor=Top, Left, label.Dock=None, label.ForeColor=Color [A=255, R=240, G=240, B=240], label.BackColor=Color [A=255, R=28, G=28, B=28], label.Parent=, label.Parent.Width=520, label.Bounds={X=378,Y=14,Width=124,Height=32}, label.ClientRectangle={X=0,Y=0,Width=124,Height=32}, label.DisplayRectangle={X=0,Y=0,Width=124,Height=32}, label.IsHandleCreated=True, label.Created=True
+18.11.2025 21:27:52: LoadGodModePowerLimit: cpu_temp - Screen coordinates: screenLocation={X=1087,Y=848}, parent.ClientSize={Width=520, Height=124}, parent.ClientRectangle={X=0,Y=0,Width=520,Height=124}
+18.11.2025 21:27:52: InitGodModeCPU: After loading values. Checking labels...
+18.11.2025 21:27:52:   labelCPULongTerm.Text='28 W', Visible=True, Parent.Visible=True
+18.11.2025 21:27:52:   labelCPUTemp.Text='105 °C', Visible=True, Parent.Visible=True
+18.11.2025 21:27:52: InitGodModeCPU: CPU Power Limits initialized. Panel controls count: 8, Panel size: {Width=520, Height=934}, Panel visible: True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label '28 W' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label 'SPL (CPU sustained)' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label '34 W' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label 'sPPT (CPU 2 min boost)' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label '50 W' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label 'fPPT (CPU peak)' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label '39 W' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label 'CPU Cross Loading' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label '42 s' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label 'PL1 Tau' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label '0 W' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label 'APU sPPT' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label '105 °C' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label 'CPU Temperature Limit' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label 'CPU Power Limits' Show() called, Visible=True
+18.11.2025 21:27:52: ToggleNavigation: BEFORE PerformLayout - panelPower.Visible=True, panelGodModeCPU.Visible=True
+18.11.2025 21:27:52: ToggleNavigation: AFTER PerformLayout - panelPower.Visible=True, panelGodModeCPU.Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label 'SPL (CPU sustained)' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label '28 W' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label 'sPPT (CPU 2 min boost)' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label '34 W' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label 'fPPT (CPU peak)' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label '50 W' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label 'CPU Cross Loading' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label '39 W' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label 'PL1 Tau' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label '42 s' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label 'APU sPPT' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label '0 W' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label 'CPU Temperature Limit' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label '105 °C' Show() called, Visible=True
+18.11.2025 21:27:52: SetAllControlsVisible: Set label 'CPU Power Limits' Show() called, Visible=True
+18.11.2025 21:27:52: ToggleNavigation: After layout - panelPower.Size={Width=520, Height=934}, panelPower.Width=520, panelGodModeCPU.Size={Width=520, Height=934}, panelGodModeCPU.Width=520
+18.11.2025 21:27:52: ToggleNavigation: labelCPULongTerm - Text='28 W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Height=32, Parent=, Parent.Width=520, Parent.Size={Width=520, Height=124}, ForeColor=Color [A=255, R=240, G=240, B=240], BackColor=Color [A=255, R=28, G=28, B=28], Bounds={X=378,Y=14,Width=124,Height=32}, IsHandleCreated=True
+18.11.2025 21:27:52: ToggleNavigation: labelCPUShortTerm - Text='34 W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:52: ToggleNavigation: labelCPUPeak - Text='50 W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:52: ToggleNavigation: labelCPUCrossLoading - Text='39 W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:52: ToggleNavigation: labelCPUPL1Tau - Text='42 s', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:52: ToggleNavigation: labelAPUsPPT - Text='0 W', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:52: ToggleNavigation: labelCPUTemp - Text='105 °C', Visible=True, Location={X=378,Y=14}, Size={Width=124, Height=32}, Width=124, Parent=, Parent.Width=520
+18.11.2025 21:27:52: ToggleNavigation: GodMode CPU panel added to panelPower. Controls count: 1, Visible: True, Size: {Width=520, Height=934}, Width: 520, Parent: panelPower, panelPower.Visible: True, panelPower.Size: {Width=520, Height=934}, panelPower.Width: 520
+18.11.2025 21:27:55: Get white backlight state: outBuffer=0x1
+18.11.2025 21:27:55: Input device not found
+18.11.2025 21:27:58: Get white backlight state: outBuffer=0x1
+18.11.2025 21:28:00: Get white backlight state: outBuffer=0x1
+18.11.2025 21:28:00: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 8
+18.11.2025 21:28:00: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+18.11.2025 21:28:00: Set Lenovo Power Mode to: Balance
+18.11.2025 21:28:00: Set Lenovo power mode: Balance (from G-Helper mode 0)
+18.11.2025 21:28:02: Get white backlight state: outBuffer=0x1
+18.11.2025 21:28:05: Get white backlight state: outBuffer=0x1
+18.11.2025 21:28:07: Get white backlight state: outBuffer=0x1
+18.11.2025 21:28:09: Get white backlight state: outBuffer=0x1
+18.11.2025 21:28:12: Get white backlight state: outBuffer=0x1
+18.11.2025 21:28:15: Get white backlight state: outBuffer=0x1
+18.11.2025 21:28:18: Get white backlight state: outBuffer=0x1
+18.11.2025 21:28:20: Get white backlight state: outBuffer=0x1
+18.11.2025 21:28:23: Get white backlight state: outBuffer=0x1
+18.11.2025 21:28:25: Get white backlight state: outBuffer=0x1

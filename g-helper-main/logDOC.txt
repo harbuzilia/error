@@ -1,0 +1,661 @@
+РІСЃ.16.11.2025 17:49:00: ------------
+РІСЃ.16.11.2025 17:49:00: App launched: 82B5 :0.1.0.0ru-RU.
+РІСЃ.16.11.2025 17:49:00: Manufacturer: LENOVO
+РІСЃ.16.11.2025 17:49:00: Start Count: 0
+РІСЃ.16.11.2025 17:49:00: Lenovo device detected - initializing Lenovo WMI
+РІСЃ.16.11.2025 17:49:00: Lenovo WMI interface detected
+РІСЃ.16.11.2025 17:49:01: C:\ProgramData\ASUS\GameVisual doesn't exist
+РІСЃ.16.11.2025 17:49:01: Lenovo WMI interface detected
+РІСЃ.16.11.2025 17:49:01: Lenovo WMI interface detected
+РІСЃ.16.11.2025 17:49:01: EnergyDrv driver initialized
+РІСЃ.16.11.2025 17:49:01: LenovoBattery initialized, current state: Normal
+РІСЃ.16.11.2025 17:49:01: Lenovo WMI interface detected
+РІСЃ.16.11.2025 17:49:01: No keyboard backlight detected
+РІСЃ.16.11.2025 17:49:01: Lenovo power mode listener started
+РІСЃ.16.11.2025 17:49:01: Lenovo controllers initialized
+РІСЃ.16.11.2025 17:49:01: Created Custom mode (mode 3)
+РІСЃ.16.11.2025 17:49:01: Dummy ACPI created for Lenovo
+РІСЃ.16.11.2025 17:49:01: Visual styles enabled
+РІСЃ.16.11.2025 17:49:01: GeForce GTX 1650
+РІСЃ.16.11.2025 17:49:01: GPU control recreated
+РІСЃ.16.11.2025 17:49:01: CPU: 3 - AMD Ryzen 5 4600H with Radeon Graphics          - AMD64 Family 23 Model 96 Stepping 1
+РІСЃ.16.11.2025 17:49:01: Ryzen control initialized
+РІСЃ.16.11.2025 17:49:01: Tray Icon: True | 49228
+РІСЃ.16.11.2025 17:49:01: Context menu set
+РІСЃ.16.11.2025 17:49:01: Can't connect to ASUS WMI events
+РІСЃ.16.11.2025 17:49:01: Input dispatcher created
+РІСЃ.16.11.2025 17:49:01: White backlight check: DeviceIoControl failed
+РІСЃ.16.11.2025 17:49:01: Lenovo white keyboard backlight support: False
+РІСЃ.16.11.2025 17:49:01: Current keyboard backlight state from hardware: Off
+РІСЃ.16.11.2025 17:49:01: [InitBattery] Loaded from config: lenovo_battery_state = 1 (Normal)
+РІСЃ.16.11.2025 17:49:01: [InitBattery] Current hardware state: Normal
+РІСЃ.16.11.2025 17:49:01: [InitBattery] Applying saved state Normal to hardware...
+РІСЃ.16.11.2025 17:49:01: Setting battery from Normal to Normal, commands: 0x8
+РІСЃ.16.11.2025 17:49:01: Successfully set battery state to: Normal
+РІСЃ.16.11.2025 17:49:01: [InitBattery] Applied saved battery state to hardware: Normal
+РІСЃ.16.11.2025 17:49:01: Aura/Matrix/Battery initialized
+РІСЃ.16.11.2025 17:49:01: Skipping XGM for Lenovo
+РІСЃ.16.11.2025 17:49:01: Setting auto modes...
+РІСЃ.16.11.2025 17:49:01: AutoSetting for Online
+РІСЃ.16.11.2025 17:49:01: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:49:01: FnLock Support: -65536
+РІСЃ.16.11.2025 17:49:01: AuraMode: AuraStatic
+РІСЃ.16.11.2025 17:49:01: WMI Call failed: LENOVO_GAMEZONE_DATA.IsSupportIGPUMode - Р­С‚РѕС‚ РјРµС‚РѕРґ РЅРµ СЂРµР°Р»РёР·РѕРІР°РЅ РЅРё РІ РѕРґРЅРѕРј РёР· РєР»Р°СЃСЃРѕРІ 
+РІСЃ.16.11.2025 17:49:01: Lenovo GPU mode not supported
+РІСЃ.16.11.2025 17:49:01: WMI Call: LENOVO_GAMEZONE_DATA.GetSmartFanMode = 2
+РІСЃ.16.11.2025 17:49:01: Lenovo Power Mode: 2
+РІСЃ.16.11.2025 17:49:01: Current Lenovo mode from WMI: Balance
+РІСЃ.16.11.2025 17:49:01: Detected G-Helper mode: 0
+РІСЃ.16.11.2025 17:49:01: \\?\DISPLAY#IVO061F#5&37c9c371&0&UID512#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7} DISPLAYCONFIG_OUTPUT_TECHNOLOGY_INTERNAL
+РІСЃ.16.11.2025 17:49:01: \\?\DISPLAY#IVO061F#5&37c9c371&0&UID512#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7} \\.\DISPLAY1\Monitor0
+РІСЃ.16.11.2025 17:49:01:  HDR: False 8 0 False
+РІСЃ.16.11.2025 17:49:01: Auto modes set
+РІСЃ.16.11.2025 17:49:01:  HDR: False 8 0 False
+РІСЃ.16.11.2025 17:49:01: Monitor Power On
+РІСЃ.16.11.2025 17:49:01: Lid Open
+РІСЃ.16.11.2025 17:49:06: Power Plan 946b957e-d4de-45f6-98f6-b2f39aa76424 -> 381b4222-f694-41f0-9685-ff5bb260df2e :OK
+РІСЃ.16.11.2025 17:49:06: Power Mode 00000000-0000-0000-0000-000000000000 -> 961cc777-2547-4f9d-8174-7d86181b8a7a:OK
+РІСЃ.16.11.2025 17:49:06: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:49:06: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 17:49:06: Set Lenovo Power Mode to: Quiet
+РІСЃ.16.11.2025 17:49:06: Set Lenovo power mode: Quiet (from G-Helper mode 2)
+РІСЃ.16.11.2025 17:49:08: Power Mode 961cc777-2547-4f9d-8174-7d86181b8a7a -> ded574b5-45a0-4f42-8737-46345c09c238:OK
+РІСЃ.16.11.2025 17:49:08: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:49:08: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 17:49:08: Set Lenovo Power Mode to: Performance
+РІСЃ.16.11.2025 17:49:08: Set Lenovo power mode: Performance (from G-Helper mode 1)
+РІСЃ.16.11.2025 17:49:11: Power Mode ded574b5-45a0-4f42-8737-46345c09c238 -> 00000000-0000-0000-0000-000000000000:OK
+РІСЃ.16.11.2025 17:49:11: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:49:11: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 17:49:11: Set Lenovo Power Mode to: GodMode
+РІСЃ.16.11.2025 17:49:11: Set Lenovo power mode: GodMode (from G-Helper mode 3)
+РІСЃ.16.11.2025 17:49:11: GodMode support check failed: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:49:11: Input device not found
+РІСЃ.16.11.2025 17:49:12: Power Mode 00000000-0000-0000-0000-000000000000 -> ded574b5-45a0-4f42-8737-46345c09c238:OK
+РІСЃ.16.11.2025 17:49:13: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:49:13: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 17:49:13: Set Lenovo Power Mode to: Performance
+РІСЃ.16.11.2025 17:49:13: Set Lenovo power mode: Performance (from G-Helper mode 1)
+РІСЃ.16.11.2025 17:49:13: Power Mode ded574b5-45a0-4f42-8737-46345c09c238 -> 00000000-0000-0000-0000-000000000000:OK
+РІСЃ.16.11.2025 17:49:13: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:49:13: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 17:49:13: Set Lenovo Power Mode to: GodMode
+РІСЃ.16.11.2025 17:49:13: Set Lenovo power mode: GodMode (from G-Helper mode 3)
+РІСЃ.16.11.2025 17:49:13: GodMode support check failed: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:49:15: Opening settings for mode: 3
+РІСЃ.16.11.2025 17:49:15: GodMode support check failed: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:49:15: GodMode not supported
+РІСЃ.16.11.2025 17:49:15: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:49:15: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 17:49:15: Set Lenovo Power Mode to: GodMode
+РІСЃ.16.11.2025 17:49:15: Set Lenovo power mode: GodMode (from G-Helper mode 3)
+РІСЃ.16.11.2025 17:49:15: GodMode support check failed: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:49:30: ------------
+РІСЃ.16.11.2025 17:49:30: App launched: 82B5 :0.1.0.0ru-RU.
+РІСЃ.16.11.2025 17:49:30: Manufacturer: LENOVO
+РІСЃ.16.11.2025 17:49:30: Start Count: 1
+РІСЃ.16.11.2025 17:49:30: Lenovo device detected - initializing Lenovo WMI
+РІСЃ.16.11.2025 17:49:30: Lenovo WMI interface detected
+РІСЃ.16.11.2025 17:49:30: C:\ProgramData\ASUS\GameVisual doesn't exist
+РІСЃ.16.11.2025 17:49:31: Lenovo WMI interface detected
+РІСЃ.16.11.2025 17:49:31: Lenovo WMI interface detected
+РІСЃ.16.11.2025 17:49:31: EnergyDrv driver initialized
+РІСЃ.16.11.2025 17:49:31: LenovoBattery initialized, current state: Normal
+РІСЃ.16.11.2025 17:49:31: Lenovo WMI interface detected
+РІСЃ.16.11.2025 17:49:31: No keyboard backlight detected
+РІСЃ.16.11.2025 17:49:31: Lenovo power mode listener started
+РІСЃ.16.11.2025 17:49:31: Lenovo controllers initialized
+РІСЃ.16.11.2025 17:49:31: Dummy ACPI created for Lenovo
+РІСЃ.16.11.2025 17:49:31: Visual styles enabled
+РІСЃ.16.11.2025 17:49:31: GeForce GTX 1650
+РІСЃ.16.11.2025 17:49:31: GPU control recreated
+РІСЃ.16.11.2025 17:49:31: CPU: 3 - AMD Ryzen 5 4600H with Radeon Graphics          - AMD64 Family 23 Model 96 Stepping 1
+РІСЃ.16.11.2025 17:49:31: Ryzen control initialized
+РІСЃ.16.11.2025 17:49:31: Tray Icon: True | 49228
+РІСЃ.16.11.2025 17:49:31: Context menu set
+РІСЃ.16.11.2025 17:49:31: Can't connect to ASUS WMI events
+РІСЃ.16.11.2025 17:49:31: Input dispatcher created
+РІСЃ.16.11.2025 17:49:31: White backlight check: DeviceIoControl failed
+РІСЃ.16.11.2025 17:49:31: Lenovo white keyboard backlight support: False
+РІСЃ.16.11.2025 17:49:31: Current keyboard backlight state from hardware: Off
+РІСЃ.16.11.2025 17:49:31: [InitBattery] Loaded from config: lenovo_battery_state = 1 (Normal)
+РІСЃ.16.11.2025 17:49:31: [InitBattery] Current hardware state: Normal
+РІСЃ.16.11.2025 17:49:31: [InitBattery] Applying saved state Normal to hardware...
+РІСЃ.16.11.2025 17:49:31: Setting battery from Normal to Normal, commands: 0x8
+РІСЃ.16.11.2025 17:49:31: Successfully set battery state to: Normal
+РІСЃ.16.11.2025 17:49:31: [InitBattery] Applied saved battery state to hardware: Normal
+РІСЃ.16.11.2025 17:49:31: Aura/Matrix/Battery initialized
+РІСЃ.16.11.2025 17:49:31: Skipping XGM for Lenovo
+РІСЃ.16.11.2025 17:49:31: Setting auto modes...
+РІСЃ.16.11.2025 17:49:31: AutoSetting for Online
+РІСЃ.16.11.2025 17:49:31: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:49:31: FnLock Support: -65536
+РІСЃ.16.11.2025 17:49:31: AuraMode: AuraStatic
+РІСЃ.16.11.2025 17:49:31: WMI Call failed: LENOVO_GAMEZONE_DATA.IsSupportIGPUMode - Р­С‚РѕС‚ РјРµС‚РѕРґ РЅРµ СЂРµР°Р»РёР·РѕРІР°РЅ РЅРё РІ РѕРґРЅРѕРј РёР· РєР»Р°СЃСЃРѕРІ 
+РІСЃ.16.11.2025 17:49:31: Lenovo GPU mode not supported
+РІСЃ.16.11.2025 17:49:31: WMI Call: LENOVO_GAMEZONE_DATA.GetSmartFanMode = 3
+РІСЃ.16.11.2025 17:49:31: Lenovo Power Mode: 3
+РІСЃ.16.11.2025 17:49:31: Current Lenovo mode from WMI: Performance
+РІСЃ.16.11.2025 17:49:31: Detected G-Helper mode: 1
+РІСЃ.16.11.2025 17:49:31: \\?\DISPLAY#IVO061F#5&37c9c371&0&UID512#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7} DISPLAYCONFIG_OUTPUT_TECHNOLOGY_INTERNAL
+РІСЃ.16.11.2025 17:49:31: \\?\DISPLAY#IVO061F#5&37c9c371&0&UID512#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7} \\.\DISPLAY1\Monitor0
+РІСЃ.16.11.2025 17:49:31:  HDR: False 8 0 False
+РІСЃ.16.11.2025 17:49:31: Auto modes set
+РІСЃ.16.11.2025 17:49:31:  HDR: False 8 0 False
+РІСЃ.16.11.2025 17:49:31: Monitor Power On
+РІСЃ.16.11.2025 17:49:31: Lid Open
+РІСЃ.16.11.2025 17:49:41: Input device not found
+РІСЃ.16.11.2025 17:49:45: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:49:45: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 17:49:45: Set Lenovo Power Mode to: GodMode
+РІСЃ.16.11.2025 17:49:45: Set Lenovo power mode: GodMode (from G-Helper mode 3)
+РІСЃ.16.11.2025 17:49:45: GodMode support check failed: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:49:49: Opening settings for mode: 3
+РІСЃ.16.11.2025 17:49:49: GodMode support check failed: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:49:49: GodMode not supported
+РІСЃ.16.11.2025 17:49:49: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:49:49: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 17:49:49: Set Lenovo Power Mode to: GodMode
+РІСЃ.16.11.2025 17:49:49: Set Lenovo power mode: GodMode (from G-Helper mode 3)
+РІСЃ.16.11.2025 17:49:49: GodMode support check failed: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:56:39: Power Mode 00000000-0000-0000-0000-000000000000 -> 961cc777-2547-4f9d-8174-7d86181b8a7a:OK
+РІСЃ.16.11.2025 17:56:39: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:56:39: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 17:56:39: Set Lenovo Power Mode to: Quiet
+РІСЃ.16.11.2025 17:56:39: Set Lenovo power mode: Quiet (from G-Helper mode 2)
+РІСЃ.16.11.2025 17:56:40: Power Mode 961cc777-2547-4f9d-8174-7d86181b8a7a -> 00000000-0000-0000-0000-000000000000:OK
+РІСЃ.16.11.2025 17:56:40: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:56:40: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 17:56:40: Set Lenovo Power Mode to: Balance
+РІСЃ.16.11.2025 17:56:40: Set Lenovo power mode: Balance (from G-Helper mode 0)
+РІСЃ.16.11.2025 17:56:43: Power Mode 00000000-0000-0000-0000-000000000000 -> ded574b5-45a0-4f42-8737-46345c09c238:OK
+РІСЃ.16.11.2025 17:56:43: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:56:43: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 17:56:43: Set Lenovo Power Mode to: Performance
+РІСЃ.16.11.2025 17:56:43: Set Lenovo power mode: Performance (from G-Helper mode 1)
+РІСЃ.16.11.2025 17:56:47: Design Capacity: 80000mWh, Full Charge Capacity: 80090mWh, Health: 1,001125%
+РІСЃ.16.11.2025 17:56:48: Power Mode ded574b5-45a0-4f42-8737-46345c09c238 -> 00000000-0000-0000-0000-000000000000:OK
+РІСЃ.16.11.2025 17:56:48: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:56:48: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 17:56:48: Set Lenovo Power Mode to: GodMode
+РІСЃ.16.11.2025 17:56:48: Set Lenovo power mode: GodMode (from G-Helper mode 3)
+РІСЃ.16.11.2025 17:56:48: GodMode support check failed: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:56:51: Opening settings for mode: 3
+РІСЃ.16.11.2025 17:56:51: GodMode support check failed: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:56:51: GodMode not supported
+РІСЃ.16.11.2025 17:56:51: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:56:51: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 17:56:51: Set Lenovo Power Mode to: GodMode
+РІСЃ.16.11.2025 17:56:51: Set Lenovo power mode: GodMode (from G-Helper mode 3)
+РІСЃ.16.11.2025 17:56:51: GodMode support check failed: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:57:42: ------------
+РІСЃ.16.11.2025 17:57:43: App launched: 82B5 :0.1.0.0ru-RU.
+РІСЃ.16.11.2025 17:57:43: Manufacturer: LENOVO
+РІСЃ.16.11.2025 17:57:43: Start Count: 2
+РІСЃ.16.11.2025 17:57:43: Lenovo device detected - initializing Lenovo WMI
+РІСЃ.16.11.2025 17:57:43: Lenovo WMI interface detected
+РІСЃ.16.11.2025 17:57:43: C:\ProgramData\ASUS\GameVisual doesn't exist
+РІСЃ.16.11.2025 17:57:43: Lenovo WMI interface detected
+РІСЃ.16.11.2025 17:57:43: Lenovo WMI interface detected
+РІСЃ.16.11.2025 17:57:43: EnergyDrv driver initialized
+РІСЃ.16.11.2025 17:57:43: LenovoBattery initialized, current state: Normal
+РІСЃ.16.11.2025 17:57:43: Lenovo WMI interface detected
+РІСЃ.16.11.2025 17:57:43: No keyboard backlight detected
+РІСЃ.16.11.2025 17:57:43: Lenovo power mode listener started
+РІСЃ.16.11.2025 17:57:43: Lenovo controllers initialized
+РІСЃ.16.11.2025 17:57:43: Dummy ACPI created for Lenovo
+РІСЃ.16.11.2025 17:57:43: Visual styles enabled
+РІСЃ.16.11.2025 17:57:43: GeForce GTX 1650
+РІСЃ.16.11.2025 17:57:43: GPU control recreated
+РІСЃ.16.11.2025 17:57:43: CPU: 3 - AMD Ryzen 5 4600H with Radeon Graphics          - AMD64 Family 23 Model 96 Stepping 1
+РІСЃ.16.11.2025 17:57:43: Ryzen control initialized
+РІСЃ.16.11.2025 17:57:43: Tray Icon: True | 49228
+РІСЃ.16.11.2025 17:57:43: Context menu set
+РІСЃ.16.11.2025 17:57:43: Can't connect to ASUS WMI events
+РІСЃ.16.11.2025 17:57:43: Input dispatcher created
+РІСЃ.16.11.2025 17:57:43: White backlight check: DeviceIoControl failed
+РІСЃ.16.11.2025 17:57:43: Lenovo white keyboard backlight support: False
+РІСЃ.16.11.2025 17:57:43: Current keyboard backlight state from hardware: Off
+РІСЃ.16.11.2025 17:57:43: [InitBattery] Loaded from config: lenovo_battery_state = 1 (Normal)
+РІСЃ.16.11.2025 17:57:43: [InitBattery] Current hardware state: Normal
+РІСЃ.16.11.2025 17:57:43: [InitBattery] Applying saved state Normal to hardware...
+РІСЃ.16.11.2025 17:57:43: Setting battery from Normal to Normal, commands: 0x8
+РІСЃ.16.11.2025 17:57:43: Successfully set battery state to: Normal
+РІСЃ.16.11.2025 17:57:43: [InitBattery] Applied saved battery state to hardware: Normal
+РІСЃ.16.11.2025 17:57:43: Aura/Matrix/Battery initialized
+РІСЃ.16.11.2025 17:57:43: Skipping XGM for Lenovo
+РІСЃ.16.11.2025 17:57:43: Setting auto modes...
+РІСЃ.16.11.2025 17:57:43: AutoSetting for Online
+РІСЃ.16.11.2025 17:57:43: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:57:43: FnLock Support: -65536
+РІСЃ.16.11.2025 17:57:43: AuraMode: AuraStatic
+РІСЃ.16.11.2025 17:57:43: WMI Call failed: LENOVO_GAMEZONE_DATA.IsSupportIGPUMode - Р­С‚РѕС‚ РјРµС‚РѕРґ РЅРµ СЂРµР°Р»РёР·РѕРІР°РЅ РЅРё РІ РѕРґРЅРѕРј РёР· РєР»Р°СЃСЃРѕРІ 
+РІСЃ.16.11.2025 17:57:43: Lenovo GPU mode not supported
+РІСЃ.16.11.2025 17:57:43: WMI Call: LENOVO_GAMEZONE_DATA.GetSmartFanMode = 3
+РІСЃ.16.11.2025 17:57:43: Lenovo Power Mode: 3
+РІСЃ.16.11.2025 17:57:43: Current Lenovo mode from WMI: Performance
+РІСЃ.16.11.2025 17:57:43: Detected G-Helper mode: 1
+РІСЃ.16.11.2025 17:57:43: \\?\DISPLAY#IVO061F#5&37c9c371&0&UID512#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7} DISPLAYCONFIG_OUTPUT_TECHNOLOGY_INTERNAL
+РІСЃ.16.11.2025 17:57:43: \\?\DISPLAY#IVO061F#5&37c9c371&0&UID512#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7} \\.\DISPLAY1\Monitor0
+РІСЃ.16.11.2025 17:57:43:  HDR: False 8 0 False
+РІСЃ.16.11.2025 17:57:43: Auto modes set
+РІСЃ.16.11.2025 17:57:43: Monitor Power On
+РІСЃ.16.11.2025 17:57:43: Lid Open
+РІСЃ.16.11.2025 17:57:46:  HDR: False 8 0 False
+РІСЃ.16.11.2025 17:57:48: Power Mode 00000000-0000-0000-0000-000000000000 -> 961cc777-2547-4f9d-8174-7d86181b8a7a:OK
+РІСЃ.16.11.2025 17:57:48: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:57:48: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 17:57:48: Set Lenovo Power Mode to: Quiet
+РІСЃ.16.11.2025 17:57:48: Set Lenovo power mode: Quiet (from G-Helper mode 2)
+РІСЃ.16.11.2025 17:57:50: Opening settings for mode: 2
+РІСЃ.16.11.2025 17:57:50: InitMode: mode=2, isCustomMode=False, panelApplyCustom.Visible=False, panelApplyPower.Visible=True
+РІСЃ.16.11.2025 17:57:50: Default Curve: CPU - 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+РІСЃ.16.11.2025 17:57:50: Default Curve: GPU - 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+РІСЃ.16.11.2025 17:57:50: Failed to get feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:57:50: Failed to get feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:57:50: Failed to get feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:57:50: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 17:57:50: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 17:57:50: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:57:50: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 17:57:50: Set Lenovo Power Mode to: Quiet
+РІСЃ.16.11.2025 17:57:50: Set Lenovo power mode: Quiet (from G-Helper mode 2)
+РІСЃ.16.11.2025 17:57:53: Input device not found
+РІСЃ.16.11.2025 17:58:19: Power Mode 961cc777-2547-4f9d-8174-7d86181b8a7a -> 00000000-0000-0000-0000-000000000000:OK
+РІСЃ.16.11.2025 17:58:19: InitMode: mode=0, isCustomMode=False, panelApplyCustom.Visible=False, panelApplyPower.Visible=True
+РІСЃ.16.11.2025 17:58:19: Default Curve: CPU - 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+РІСЃ.16.11.2025 17:58:19: Default Curve: GPU - 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+РІСЃ.16.11.2025 17:58:19: Failed to get feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:58:19: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:58:19: Failed to get feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:58:19: Failed to get feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:58:19: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 17:58:19: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 17:58:19: Set Lenovo Power Mode to: Balance
+РІСЃ.16.11.2025 17:58:19: Set Lenovo power mode: Balance (from G-Helper mode 0)
+РІСЃ.16.11.2025 17:58:19: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 17:58:54: Power Mode 00000000-0000-0000-0000-000000000000 -> ded574b5-45a0-4f42-8737-46345c09c238:OK
+РІСЃ.16.11.2025 17:58:54: InitMode: mode=1, isCustomMode=False, panelApplyCustom.Visible=False, panelApplyPower.Visible=True
+РІСЃ.16.11.2025 17:58:54: Default Curve: CPU - 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+РІСЃ.16.11.2025 17:58:54: Default Curve: GPU - 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00
+РІСЃ.16.11.2025 17:58:54: Failed to get feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:58:54: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:58:54: Failed to get feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:58:54: Failed to get feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:58:54: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 17:58:54: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 17:58:54: Set Lenovo Power Mode to: Performance
+РІСЃ.16.11.2025 17:58:54: Set Lenovo power mode: Performance (from G-Helper mode 1)
+РІСЃ.16.11.2025 17:58:54: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 17:58:56: Power Mode ded574b5-45a0-4f42-8737-46345c09c238 -> 00000000-0000-0000-0000-000000000000:OK
+РІСЃ.16.11.2025 17:58:56: InitMode: mode=0, isCustomMode=False, panelApplyCustom.Visible=False, panelApplyPower.Visible=True
+РІСЃ.16.11.2025 17:58:56: Failed to get feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:58:56: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 17:58:56: Failed to get feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:58:56: Failed to get feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 17:58:56: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 17:58:56: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 17:58:56: Set Lenovo Power Mode to: Balance
+РІСЃ.16.11.2025 17:58:56: Set Lenovo power mode: Balance (from G-Helper mode 0)
+РІСЃ.16.11.2025 17:58:56: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 17:59:50: Power Mode StatusChange: Online
+РІСЃ.16.11.2025 18:02:47: Power Mode 00000000-0000-0000-0000-000000000000 -> ded574b5-45a0-4f42-8737-46345c09c238:OK
+РІСЃ.16.11.2025 18:02:47: InitMode: mode=1, isCustomMode=False, panelApplyCustom.Visible=False, panelApplyPower.Visible=True
+РІСЃ.16.11.2025 18:02:48: Failed to get feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:02:48: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 18:02:48: Failed to get feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:02:48: Failed to get feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:02:48: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:02:48: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 18:02:48: Set Lenovo Power Mode to: Performance
+РІСЃ.16.11.2025 18:02:48: Set Lenovo power mode: Performance (from G-Helper mode 1)
+РІСЃ.16.11.2025 18:02:48: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:05:01: InitMode: mode=1, isCustomMode=False, panelApplyCustom.Visible=False, panelApplyPower.Visible=True
+РІСЃ.16.11.2025 18:05:01: Failed to get feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:05:01: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 18:05:01: Failed to get feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:05:01: Failed to get feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:05:01: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:05:01: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 18:05:01: Set Lenovo Power Mode to: Performance
+РІСЃ.16.11.2025 18:05:01: Set Lenovo power mode: Performance (from G-Helper mode 1)
+РІСЃ.16.11.2025 18:05:01: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:07:00: Power Mode ded574b5-45a0-4f42-8737-46345c09c238 -> 00000000-0000-0000-0000-000000000000:OK
+РІСЃ.16.11.2025 18:07:00: InitMode: mode=0, isCustomMode=False, panelApplyCustom.Visible=False, panelApplyPower.Visible=True
+РІСЃ.16.11.2025 18:07:00: Failed to get feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:07:00: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 18:07:00: Failed to get feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:07:00: Failed to get feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:07:00: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:07:00: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 18:07:00: Set Lenovo Power Mode to: Balance
+РІСЃ.16.11.2025 18:07:00: Set Lenovo power mode: Balance (from G-Helper mode 0)
+РІСЃ.16.11.2025 18:07:00: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:07:40: Opening settings for mode: 0
+РІСЃ.16.11.2025 18:07:40: InitMode: mode=0, isCustomMode=False, panelApplyCustom.Visible=False, panelApplyPower.Visible=True
+РІСЃ.16.11.2025 18:07:40: Failed to get feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:07:40: Failed to get feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:07:40: Failed to get feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:07:40: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:07:40: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:07:40: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 18:07:40: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 18:07:40: Set Lenovo Power Mode to: Balance
+РІСЃ.16.11.2025 18:07:40: Set Lenovo power mode: Balance (from G-Helper mode 0)
+РІСЃ.16.11.2025 18:07:48: Opening settings for mode: 0
+РІСЃ.16.11.2025 18:07:48: InitMode: mode=0, isCustomMode=False, panelApplyCustom.Visible=False, panelApplyPower.Visible=True
+РІСЃ.16.11.2025 18:07:48: Failed to get feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:07:48: Failed to get feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:07:48: Failed to get feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:07:48: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:07:48: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:07:48: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 18:07:48: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 18:07:48: Set Lenovo Power Mode to: Balance
+РІСЃ.16.11.2025 18:07:48: Set Lenovo power mode: Balance (from G-Helper mode 0)
+РІСЃ.16.11.2025 18:07:58: Power Mode 00000000-0000-0000-0000-000000000000 -> ded574b5-45a0-4f42-8737-46345c09c238:OK
+РІСЃ.16.11.2025 18:07:58: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 18:07:58: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 18:07:58: Set Lenovo Power Mode to: Performance
+РІСЃ.16.11.2025 18:07:58: Set Lenovo power mode: Performance (from G-Helper mode 1)
+РІСЃ.16.11.2025 18:08:04: Opening settings for mode: 1
+РІСЃ.16.11.2025 18:08:04: InitMode: mode=1, isCustomMode=False, panelApplyCustom.Visible=False, panelApplyPower.Visible=True
+РІСЃ.16.11.2025 18:08:04: Failed to get feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:04: Failed to get feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:04: Failed to get feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:04: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:08:04: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:08:05: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 18:08:05: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 18:08:05: Set Lenovo Power Mode to: Performance
+РІСЃ.16.11.2025 18:08:05: Set Lenovo power mode: Performance (from G-Helper mode 1)
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Applied Lenovo power limits: SPL=124W, sPPT=125W, fPPT=124W
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Applied Lenovo power limits: SPL=118W, sPPT=125W, fPPT=124W
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Applied Lenovo power limits: SPL=81W, sPPT=125W, fPPT=124W
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Applied Lenovo power limits: SPL=71W, sPPT=125W, fPPT=124W
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Applied Lenovo power limits: SPL=64W, sPPT=125W, fPPT=124W
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Applied Lenovo power limits: SPL=61W, sPPT=125W, fPPT=124W
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Applied Lenovo power limits: SPL=56W, sPPT=125W, fPPT=124W
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Failed to set feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:12: Applied Lenovo power limits: SPL=55W, sPPT=125W, fPPT=124W
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Applied Lenovo power limits: SPL=52W, sPPT=125W, fPPT=124W
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Applied Lenovo power limits: SPL=49W, sPPT=125W, fPPT=124W
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Applied Lenovo power limits: SPL=46W, sPPT=125W, fPPT=124W
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Applied Lenovo power limits: SPL=43W, sPPT=125W, fPPT=124W
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Applied Lenovo power limits: SPL=41W, sPPT=125W, fPPT=124W
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Applied Lenovo power limits: SPL=39W, sPPT=125W, fPPT=124W
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Applied Lenovo power limits: SPL=38W, sPPT=125W, fPPT=124W
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Applied Lenovo power limits: SPL=37W, sPPT=125W, fPPT=124W
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Applied Lenovo power limits: SPL=36W, sPPT=125W, fPPT=124W
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Failed to set feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:13: Applied Lenovo power limits: SPL=35W, sPPT=125W, fPPT=124W
+РІСЃ.16.11.2025 18:08:18: Mode = 1 : 0
+РІСЃ.16.11.2025 18:08:18: Mode = 1 : 0
+РІСЃ.16.11.2025 18:08:41: InitMode: mode=1, isCustomMode=False, panelApplyCustom.Visible=False, panelApplyPower.Visible=True
+РІСЃ.16.11.2025 18:08:41: Failed to get feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:41: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 18:08:41: Failed to get feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:41: Failed to get feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:08:41: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:08:41: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 18:08:41: Set Lenovo Power Mode to: Performance
+РІСЃ.16.11.2025 18:08:41: Set Lenovo power mode: Performance (from G-Helper mode 1)
+РІСЃ.16.11.2025 18:08:41: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:09:05: Design Capacity: 80000mWh, Full Charge Capacity: 80090mWh, Health: 1,001125%
+РІСЃ.16.11.2025 18:09:47: Power Mode ded574b5-45a0-4f42-8737-46345c09c238 -> 961cc777-2547-4f9d-8174-7d86181b8a7a:OK
+РІСЃ.16.11.2025 18:09:47: InitMode: mode=2, isCustomMode=False, panelApplyCustom.Visible=False, panelApplyPower.Visible=True
+РІСЃ.16.11.2025 18:09:47: Failed to get feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:09:47: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 18:09:47: Failed to get feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:09:47: Failed to get feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:09:47: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 18:09:47: Set Lenovo Power Mode to: Quiet
+РІСЃ.16.11.2025 18:09:47: Set Lenovo power mode: Quiet (from G-Helper mode 2)
+РІСЃ.16.11.2025 18:09:47: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:09:47: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:10:26: Mode = 2 : 0
+РІСЃ.16.11.2025 18:10:26: Mode = 2 : 0
+РІСЃ.16.11.2025 18:10:27: Mode = 2 : 0
+РІСЃ.16.11.2025 18:10:27: Mode = 2 : 0
+РІСЃ.16.11.2025 18:10:27: Mode = 2 : 0
+РІСЃ.16.11.2025 18:10:27: Mode = 2 : 0
+РІСЃ.16.11.2025 18:10:28: InitMode: mode=2, isCustomMode=False, panelApplyCustom.Visible=False, panelApplyPower.Visible=True
+РІСЃ.16.11.2025 18:10:28: Failed to get feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:10:28: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 18:10:28: Failed to get feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:10:28: Failed to get feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:10:28: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:10:28: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 18:10:28: Set Lenovo Power Mode to: Quiet
+РІСЃ.16.11.2025 18:10:28: Set Lenovo power mode: Quiet (from G-Helper mode 2)
+РІСЃ.16.11.2025 18:10:28: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:10:29: Mode = 2 : 0
+РІСЃ.16.11.2025 18:10:29: Mode = 2 : 0
+РІСЃ.16.11.2025 18:10:29: Mode = 2 : 0
+РІСЃ.16.11.2025 18:10:29: Mode = 2 : 0
+РІСЃ.16.11.2025 18:10:33: Mode = 2 : 0
+РІСЃ.16.11.2025 18:10:33: Mode = 2 : 0
+РІСЃ.16.11.2025 18:10:34: Mode = 2 : 0
+РІСЃ.16.11.2025 18:10:34: Mode = 2 : 0
+РІСЃ.16.11.2025 18:11:19: InitMode: mode=2, isCustomMode=False, panelApplyCustom.Visible=False, panelApplyPower.Visible=True
+РІСЃ.16.11.2025 18:11:19: Failed to get feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:11:19: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 18:11:19: Failed to get feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:11:19: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 18:11:19: Set Lenovo Power Mode to: Quiet
+РІСЃ.16.11.2025 18:11:19: Set Lenovo power mode: Quiet (from G-Helper mode 2)
+РІСЃ.16.11.2025 18:11:19: Failed to get feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:11:19: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:11:19: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:13:47: Mode = 2 : 0
+РІСЃ.16.11.2025 18:13:47: Mode = 2 : 0
+РІСЃ.16.11.2025 18:13:48: Mode = 2 : 0
+РІСЃ.16.11.2025 18:13:48: Mode = 2 : 0
+РІСЃ.16.11.2025 18:13:48: Mode = 2 : 0
+РІСЃ.16.11.2025 18:13:48: Mode = 2 : 0
+РІСЃ.16.11.2025 18:13:49: Mode = 2 : 0
+РІСЃ.16.11.2025 18:13:49: Mode = 2 : 0
+РІСЃ.16.11.2025 18:13:49: Mode = 2 : 0
+РІСЃ.16.11.2025 18:13:49: Mode = 2 : 0
+РІСЃ.16.11.2025 18:13:49: InitMode: mode=2, isCustomMode=False, panelApplyCustom.Visible=False, panelApplyPower.Visible=True
+РІСЃ.16.11.2025 18:13:49: Failed to get feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:13:50: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 18:13:50: Failed to get feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:13:50: Failed to get feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:13:50: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 18:13:50: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:13:50: Set Lenovo Power Mode to: Quiet
+РІСЃ.16.11.2025 18:13:50: Set Lenovo power mode: Quiet (from G-Helper mode 2)
+РІСЃ.16.11.2025 18:13:50: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:13:50: InitMode: mode=2, isCustomMode=False, panelApplyCustom.Visible=False, panelApplyPower.Visible=True
+РІСЃ.16.11.2025 18:13:50: Failed to get feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:13:50: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 18:13:50: Failed to get feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:13:50: Failed to get feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:13:50: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:13:50: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 18:13:50: Set Lenovo Power Mode to: Quiet
+РІСЃ.16.11.2025 18:13:50: Set Lenovo power mode: Quiet (from G-Helper mode 2)
+РІСЃ.16.11.2025 18:13:50: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:13:51: InitMode: mode=2, isCustomMode=False, panelApplyCustom.Visible=False, panelApplyPower.Visible=True
+РІСЃ.16.11.2025 18:13:51: Failed to get feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:13:51: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 18:13:51: Failed to get feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:13:51: Failed to get feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:13:51: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:13:51: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 18:13:51: Set Lenovo Power Mode to: Quiet
+РІСЃ.16.11.2025 18:13:51: Set Lenovo power mode: Quiet (from G-Helper mode 2)
+РІСЃ.16.11.2025 18:13:51: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:13:51: Mode = 2 : 0
+РІСЃ.16.11.2025 18:13:51: Mode = 2 : 0
+РІСЃ.16.11.2025 18:13:51: Mode = 2 : 0
+РІСЃ.16.11.2025 18:13:51: Mode = 2 : 0
+РІСЃ.16.11.2025 18:13:52: Mode = 2 : 0
+РІСЃ.16.11.2025 18:13:52: Mode = 2 : 0
+РІСЃ.16.11.2025 18:13:52: Mode = 2 : 0
+РІСЃ.16.11.2025 18:13:52: Mode = 2 : 0
+РІСЃ.16.11.2025 18:14:49: Mode = 2 : 0
+РІСЃ.16.11.2025 18:14:49: Mode = 2 : 0
+РІСЃ.16.11.2025 18:14:49: Mode = 2 : 0
+РІСЃ.16.11.2025 18:14:49: Mode = 2 : 0
+РІСЃ.16.11.2025 18:14:50: Mode = 2 : 0
+РІСЃ.16.11.2025 18:14:50: Mode = 2 : 0
+РІСЃ.16.11.2025 18:14:50: Mode = 2 : 0
+РІСЃ.16.11.2025 18:14:50: Mode = 2 : 0
+РІСЃ.16.11.2025 18:14:50: Mode = 2 : 0
+РІСЃ.16.11.2025 18:14:50: Mode = 2 : 0
+РІСЃ.16.11.2025 18:14:50: Mode = 2 : 0
+РІСЃ.16.11.2025 18:14:50: Mode = 2 : 0
+РІСЃ.16.11.2025 18:14:50: Mode = 2 : 0
+РІСЃ.16.11.2025 18:14:50: Mode = 2 : 0
+РІСЃ.16.11.2025 18:14:51: Mode = 2 : 0
+РІСЃ.16.11.2025 18:14:51: Mode = 2 : 0
+РІСЃ.16.11.2025 18:15:37: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:15:37: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:15:37: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:15:37: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:15:37: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:15:37: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:15:37: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:15:37: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:15:57: InitMode: mode=2, isCustomMode=False, panelApplyCustom.Visible=False, panelApplyPower.Visible=True
+РІСЃ.16.11.2025 18:15:57: Failed to get feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:15:57: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 18:15:57: Failed to get feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:15:57: Failed to get feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:15:57: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:15:57: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 18:15:57: Set Lenovo Power Mode to: Quiet
+РІСЃ.16.11.2025 18:15:57: Set Lenovo power mode: Quiet (from G-Helper mode 2)
+РІСЃ.16.11.2025 18:15:57: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:17:00: Power Mode 961cc777-2547-4f9d-8174-7d86181b8a7a -> ded574b5-45a0-4f42-8737-46345c09c238:OK
+РІСЃ.16.11.2025 18:17:00: InitMode: mode=1, isCustomMode=False, panelApplyCustom.Visible=False, panelApplyPower.Visible=True
+РІСЃ.16.11.2025 18:17:00: Failed to get feature value for CPULongTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:17:01: WMI Call: LENOVO_GAMEZONE_DATA.IsSupportSmartFan = 2
+РІСЃ.16.11.2025 18:17:01: Failed to get feature value for CPUShortTermPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:17:01: Failed to get feature value for CPUPeakPowerLimit: РќРµРґРѕРїСѓСЃС‚РёРјС‹Р№ РєР»Р°СЃСЃ 
+РІСЃ.16.11.2025 18:17:01: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:17:01: WMI Call: LENOVO_GAMEZONE_DATA.SetSmartFanMode
+РІСЃ.16.11.2025 18:17:01: Set Lenovo Power Mode to: Performance
+РІСЃ.16.11.2025 18:17:01: Set Lenovo power mode: Performance (from G-Helper mode 1)
+РІСЃ.16.11.2025 18:17:01: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:19:56: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:19:57: powershell nvidia-smi -lgc 0,2065
+РІСЃ.16.11.2025 18:19:57: 1063 ms: GPU clocks set to "(gpuClkMin 0, gpuClkMax 2065)" for GPU 00000000:01:00.0 All done.
+РІСЃ.16.11.2025 18:19:57: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:19:57: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:19:57: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:20:01: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:20:01: powershell nvidia-smi -lgc 0,2375
+РІСЃ.16.11.2025 18:20:01: 610 ms: GPU clocks set to "(gpuClkMin 0, gpuClkMax 2375)" for GPU 00000000:01:00.0 All done.
+РІСЃ.16.11.2025 18:20:01: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:20:01: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:20:01: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:20:13: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:20:14: powershell nvidia-smi -lgc 0,1970
+РІСЃ.16.11.2025 18:20:14: 596 ms: GPU clocks set to "(gpuClkMin 0, gpuClkMax 1970)" for GPU 00000000:01:00.0 All done.
+РІСЃ.16.11.2025 18:20:14: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:20:14: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:20:14: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:20:23: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:20:24: powershell nvidia-smi -lgc 0,1970
+РІСЃ.16.11.2025 18:20:24: 594 ms: GPU clocks set to "(gpuClkMin 0, gpuClkMax 1970)" for GPU 00000000:01:00.0 All done.
+РІСЃ.16.11.2025 18:20:24: GET GPU CLOCKS: 0, 0
+РІСЃ.16.11.2025 18:20:24: SET GPU CLOCKS: -115, 0
+РІСЃ.16.11.2025 18:20:24: GET GPU CLOCKS: -115, 0
+РІСЃ.16.11.2025 18:20:24: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:20:42: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:20:43: powershell nvidia-smi -lgc 0,1970
+РІСЃ.16.11.2025 18:20:43: 616 ms: GPU clocks set to "(gpuClkMin 0, gpuClkMax 1970)" for GPU 00000000:01:00.0 All done.
+РІСЃ.16.11.2025 18:20:43: GET GPU CLOCKS: -115, 0
+РІСЃ.16.11.2025 18:20:43: SET GPU CLOCKS: -115, -225
+РІСЃ.16.11.2025 18:20:43: GET GPU CLOCKS: -115, -225
+РІСЃ.16.11.2025 18:20:43: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:20:52: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:20:53: powershell nvidia-smi -lgc 0,1970
+РІСЃ.16.11.2025 18:20:53: 580 ms: GPU clocks set to "(gpuClkMin 0, gpuClkMax 1970)" for GPU 00000000:01:00.0 All done.
+РІСЃ.16.11.2025 18:20:53: GET GPU CLOCKS: -115, -225
+РІСЃ.16.11.2025 18:20:53: SET GPU CLOCKS: -155, -225
+РІСЃ.16.11.2025 18:20:53: GET GPU CLOCKS: -155, -225
+РІСЃ.16.11.2025 18:20:53: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:20:58: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:20:59: powershell nvidia-smi -lgc 0,1970
+РІСЃ.16.11.2025 18:20:59: 607 ms: GPU clocks set to "(gpuClkMin 0, gpuClkMax 1970)" for GPU 00000000:01:00.0 All done.
+РІСЃ.16.11.2025 18:20:59: GET GPU CLOCKS: -155, -225
+РІСЃ.16.11.2025 18:20:59: SET GPU CLOCKS: -155, -330
+РІСЃ.16.11.2025 18:20:59: GET GPU CLOCKS: -155, -330
+РІСЃ.16.11.2025 18:20:59: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:21:30: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:21:30: powershell nvidia-smi -lgc 0,1970
+РІСЃ.16.11.2025 18:21:30: 606 ms: GPU clocks set to "(gpuClkMin 0, gpuClkMax 1970)" for GPU 00000000:01:00.0 All done.
+РІСЃ.16.11.2025 18:21:30: GET GPU CLOCKS: -155, -330
+РІСЃ.16.11.2025 18:21:30: SET GPU CLOCKS: -195, -330
+РІСЃ.16.11.2025 18:21:30: GET GPU CLOCKS: -195, -330
+РІСЃ.16.11.2025 18:21:30: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:21:32: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:21:33: powershell nvidia-smi -lgc 0,1970
+РІСЃ.16.11.2025 18:21:33: 597 ms: GPU clocks set to "(gpuClkMin 0, gpuClkMax 1970)" for GPU 00000000:01:00.0 All done.
+РІСЃ.16.11.2025 18:21:33: GET GPU CLOCKS: -195, -330
+РІСЃ.16.11.2025 18:21:33: SET GPU CLOCKS: -205, -330
+РІСЃ.16.11.2025 18:21:33: GET GPU CLOCKS: -205, -330
+РІСЃ.16.11.2025 18:21:33: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:21:35: GET CLOCK LIMIT: 0
+РІСЃ.16.11.2025 18:21:36: powershell nvidia-smi -lgc 0,1970
+РІСЃ.16.11.2025 18:21:36: 837 ms: GPU clocks set to "(gpuClkMin 0, gpuClkMax 1970)" for GPU 00000000:01:00.0 All done.
+РІСЃ.16.11.2025 18:21:36: GET GPU CLOCKS: -205, -330
+РІСЃ.16.11.2025 18:21:36: SET GPU CLOCKS: -205, -405
+РІСЃ.16.11.2025 18:21:37: GET GPU CLOCKS: -205, -405
+РІСЃ.16.11.2025 18:21:37: GET CLOCK LIMIT: 0
